@@ -54,7 +54,7 @@ redirect_from:
 
 Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu FANG.
 
-*Conference on Computer Vision and Pattern Recognition (CVPR)}, 2024.*
+*Conference on Computer Vision and Pattern Recognition (CVPR), 2024.*
 
 </div>
 </div>
@@ -66,7 +66,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Jian Liang, Di Liu, Zehui Dai, Mang Li, Fei Wang.
 
-*SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)}, 2023.*
+*SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.*
 
 </div>
 </div>
@@ -78,7 +78,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Yu Wang, Bing Bai, Kai Ni, David J. Brady, Lu FANG.
 
-*International Conference on Machine Learning (ICML)}, 2023. *
+*International Conference on Machine Learning (ICML), 2023. *
 
 </div>
 </div>
@@ -90,7 +90,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Yushun Fan, Jia Zhang, Zhixuan Jia, Ruyu Yan. 
 
-*IEEE Transactions on Network and Service Management (TSNM)}.*
+*IEEE Transactions on Network and Service Management (TSNM).*
 
 </div>
 </div>
@@ -100,9 +100,11 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 [Contrastive Graph Structure Learning via Information Bottleneck for Recommendation](https://proceedings.mlr.press/v202/wei23c/wei23c.pdf)
 
+**Spotlight (<5%)**
+
 **Chunyu Wei**, Jian Liang, Di Liu, Fei Wang.
 
-*Conference on Neural Information Processing Systems (NeurIPS)}, 2022.* **Spotlight (<5%)**
+*Conference on Neural Information Processing Systems (NeurIPS), 2022.* 
 
 </div>
 </div>
@@ -115,7 +117,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Bing Bai, Kun Bai, Fei Wang.
 
-*International World Wide Web Conference (WWW)}, 2022.*
+*International World Wide Web Conference (WWW), 2022.*
 
 </div>
 </div>
@@ -127,7 +129,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Jian Liang, Bing Bai, Di Liu.
 
-*International Conference on Information and Knowledge Management (CIKM)}, 2022.*
+*International Conference on Information and Knowledge Management (CIKM), 2022.*
 
 
 </div>
@@ -167,7 +169,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Yushun Fan, Jia Zhang, Haozhe Lin.
 
-*IEEE International Conference on Web Services (ICWS)}, 2020.*
+*IEEE International Conference on Web Services (ICWS), 2020.*
 
 </div>
 </div>
@@ -177,14 +179,13 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 - *2022.10* 清华之友-合肥英才奖学金（一等）
 - *2022.09* 清华大学优秀共青团员（校级）
 - *2022.06* 清华大学社会工作优秀奖
+
+
 # 📖 Educations
 - *2019.06 - 2024.06*, 清华大学，信息学院自动化系，工学博士 
 - *2015.09 - 2019.06*, 清华大学，信息学院自动化系，工学学士 
     - *2016.08 - 2019.06*, 清华大学，经济学院经济系，经济学学士（第二学位）
     - *2017.08 - 2018.01*, 美国东北大学, 计算机学院, 计算机科学与技术（交换生）
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
 - *2023.05 - 2023.11*, 北京快手科技有限公司, 中国
