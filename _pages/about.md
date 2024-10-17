@@ -21,10 +21,10 @@ redirect_from:
 
 研究方向为图机器学习与服务计算，在面向服务的图结构优化上，致力于通过对图的拓扑结构进行增强与校正，以提升图上的表示学习性能，从而更好地对服务服务系统进行高效治理。
 具体包括，面向服务系统的多模态图数据的**建模**、**预测**、**仿真**、**计算**：
-- **建模**：图数据合成（Graph Generation）
-- **预测**：图上异常检测（Graph Anomaly Detection）
-- **仿真**：图约束的多智能体交互 （Graph Learning for Multi-agent Collaboration）
-- **计算**：图使能的大语言模型 （Graph-Enhanced LLM）
+**建模**：图数据合成（Graph Generation）  
+**预测**：图上异常检测（Graph Anomaly Detection）  
+**仿真**：图约束的多智能体交互 （Graph Learning for Multi-agent Collaboration）  
+**计算**：图使能的大语言模型 （Graph-Enhanced LLM）  
 
 
 # 🔥 News
@@ -34,15 +34,13 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2023</div><img src='images/MGL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Meta Graph Learning for Long-tail Recommendation](https://dl.acm.org/doi/pdf/10.1145/3580305.3599428)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Chunyu Wei**, Jian Liang, Di Liu, Zehui Dai, Mang Li, Fei Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
