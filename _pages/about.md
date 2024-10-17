@@ -39,7 +39,9 @@ redirect_from:
 
 [Cross-view Graph Alignment for Mashup Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10542468)
 
-**Chunyu Wei**, Yushun Fan, Zhixuan Jia, Jia Zhang
+**Chunyu Wei**, Yushun Fan, Zhixuan Jia, Jia Zhang.
+
+*IEEE Transactions on Services Computing (TSC)*
 
 </div>
 </div>
@@ -50,7 +52,9 @@ redirect_from:
 
 [GigaTraj: Predicting Long-term Trajectories of Hundreds of Pedestrians in Gigapixel Complex Scenes](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_GigaTraj_Predicting_Long-term_Trajectories_of_Hundreds_of_Pedestrians_in_Gigapixel_CVPR_2024_paper.pdf)
 
-Haozhe Lin *, **Chunyu Wei** *, Li He, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu FANG.
+Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu FANG.
+
+*Conference on Computer Vision and Pattern Recognition (CVPR)}, 2024.*
 
 </div>
 </div>
@@ -60,7 +64,9 @@ Haozhe Lin *, **Chunyu Wei** *, Li He, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu 
 
 [Meta Graph Learning for Long-tail Recommendation](https://dl.acm.org/doi/pdf/10.1145/3580305.3599428)
 
-**Chunyu Wei**, Jian Liang, Di Liu, Zehui Dai, Mang Li, Fei Wang
+**Chunyu Wei**, Jian Liang, Di Liu, Zehui Dai, Mang Li, Fei Wang.
+
+*SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)}, 2023.*
 
 </div>
 </div>
@@ -70,7 +76,9 @@ Haozhe Lin *, **Chunyu Wei** *, Li He, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu 
 
 [Boosting Graph Contrastive Learning via Graph Contrastive Saliency](https://proceedings.mlr.press/v202/wei23c/wei23c.pdf)
 
-**Chunyu Wei**, Yu Wang, Bing Bai, Kai Ni, David J. Brady, Lu FANG
+**Chunyu Wei**, Yu Wang, Bing Bai, Kai Ni, David J. Brady, Lu FANG.
+
+*International Conference on Machine Learning (ICML)}, 2023. *
 
 </div>
 </div>
@@ -80,7 +88,9 @@ Haozhe Lin *, **Chunyu Wei** *, Li He, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu 
 
 [Dynamic Relation Graph Learning for Time-aware Service Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10288141)
 
-**Chunyu Wei**, Yushun Fan, Jia Zhang, Zhixuan Jia, Ruyu Yan
+**Chunyu Wei**, Yushun Fan, Jia Zhang, Zhixuan Jia, Ruyu Yan. 
+
+*IEEE Transactions on Network and Service Management (TSNM)}.*
 
 </div>
 </div>
@@ -92,6 +102,8 @@ Haozhe Lin *, **Chunyu Wei** *, Li He, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu 
 
 **Chunyu Wei**, Jian Liang, Di Liu, Fei Wang.
 
+*Conference on Neural Information Processing Systems (NeurIPS)}, 2022.* **Spotlight (<5%)**
+
 </div>
 </div>
 
@@ -101,7 +113,9 @@ Haozhe Lin *, **Chunyu Wei** *, Li He, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu 
 
 [GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction](https://dl.acm.org/doi/pdf/10.1145/3485447.3512085)
 
-**Chunyu Wei**, Bing Bai, Kun Bai, Fei Wang
+**Chunyu Wei**, Bing Bai, Kun Bai, Fei Wang.
+
+*International World Wide Web Conference (WWW)}, 2022.*
 
 </div>
 </div>
@@ -111,7 +125,10 @@ Haozhe Lin *, **Chunyu Wei** *, Li He, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu 
 
 [Dynamic Hypergraph Learning for Collaborative](https://dl.acm.org/doi/pdf/10.1145/3511808.3557301)
 
-**Chunyu Wei**, Jian Liang, Bing Bai, Di Liu
+**Chunyu Wei**, Jian Liang, Bing Bai, Di Liu.
+
+*International Conference on Information and Knowledge Management (CIKM)}, 2022.*
+
 
 </div>
 </div>
@@ -122,7 +139,9 @@ Haozhe Lin *, **Chunyu Wei** *, Li He, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu 
 
 [Time-aware Service Recommendation with Social-powered Graph Hierarchical Attention Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9852695)
 
-**Chunyu Wei**, Yushun Fan, Jia Zhang
+**Chunyu Wei**, Yushun Fan, Jia Zhang. 
+
+*IEEE Transactions on Services Computing (TSC)*
 
 </div>
 </div>
@@ -132,7 +151,9 @@ Haozhe Lin *, **Chunyu Wei** *, Li He, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu 
 
 [High-order Social Graph Neural Network for Service Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9810972)
 
-**Chunyu Wei**, Yushun Fan, Jia Zhang
+**Chunyu Wei**, Yushun Fan, Jia Zhang. 
+
+*IEEE Transactions on Network and Service Management (TSNM)*
 
 </div>
 </div>
@@ -144,7 +165,9 @@ Haozhe Lin *, **Chunyu Wei** *, Li He, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu 
 
 [A-HSG: Neural Attentive Service Recommendation based on High-order Social Graph](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9283986)
 
-**Chunyu Wei**, Yushun Fan, Jia Zhang, Haozhe Lin
+**Chunyu Wei**, Yushun Fan, Jia Zhang, Haozhe Lin.
+
+*IEEE International Conference on Web Services (ICWS)}, 2020.*
 
 </div>
 </div>
