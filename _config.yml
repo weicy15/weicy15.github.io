@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chunyu Wei's HomePage"
-description              : "Homepage of Chunyu Wei, who is currently an Assistant Professor of Information School of Renmin University."
+description              : "中国人民大学信息学院讲师\n中国人民大学青年英才\n中国人民大学国家治理大数据和人工智能创新平台研究员"
 repository               : "weicy15/weicy.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chunyu Wei"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "韦淳于 (Chunyu Wei)"
+  avatar           : "images/my_photo.png"
+  bio              : "中国人民大学"
+  location         : "北京, 中国"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qECtMnkAAAAJ&hl=zh-CN"
