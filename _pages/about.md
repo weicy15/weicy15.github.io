@@ -1,4 +1,4 @@
-<img width="184" alt="image" src="https://github.com/user-attachments/assets/42b34174-c5e7-4bb1-b00c-1a6fc79c71b5"><img width="418" alt="image" src="https://github.com/user-attachments/assets/f1e86b43-ce9a-49d3-88d2-cdec309403b7"><img width="202" alt="image" src="https://github.com/user-attachments/assets/7232161b-290a-468f-9e7d-4e4cd5136096"><img width="287" alt="image" src="https://github.com/user-attachments/assets/f927fc8c-e04f-40f6-af3f-ce19083599eb">---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -21,10 +21,10 @@ redirect_from:
 
 研究方向为图机器学习与服务计算，在面向服务的图结构优化上，致力于通过对图的拓扑结构进行增强与校正，以提升图上的表示学习性能，从而更好地对服务服务系统进行高效治理。
 具体包括，面向服务系统的多模态图数据的**建模**、**预测**、**仿真**、**计算**：  
-**建模**：图数据合成（Graph Generation）  
-**预测**：图上异常检测（Graph Anomaly Detection）  
-**仿真**：图约束的多智能体交互 （Graph Learning for Multi-agent Collaboration）  
-**计算**：图使能的大语言模型 （Graph-Enhanced LLM）  
+- **建模**：图数据合成（Graph Generation）  
+- **预测**：图上异常检测（Graph Anomaly Detection）  
+- **仿真**：图约束的多智能体交互 （Graph Learning for Multi-agent Collaboration）  
+- **计算**：图使能的大语言模型 （Graph-Enhanced LLM）  
 
 
 # 🔥 News
@@ -151,16 +151,20 @@ Haozhe Lin *, **Chunyu Wei** *, Li He, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu 
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2022.10* 清华之友-合肥英才奖学金（一等）
+- *2022.09* 清华大学优秀共青团员（校级）
+- *2022.06* 清华大学社会工作优秀奖
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
+- *2019.06 - 2024.06*, 清华大学，信息学院自动化系，工学博士 
+- *2015.09 - 2019.06*, 清华大学，信息学院自动化系，工学学士 
+    - *2016.08 - 2019.06*, 清华大学，经济学院经济系，经济学学士（第二学位）
+    - *2017.08 - 2018.01*, 美国东北大学, 计算机学院, 计算机科学与技术（交换生）
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.05 - 2023.11*, 北京快手科技有限公司, 中国
+- *2022.07 - 2023.05*, 启元实验室, 中国
+- *2021.05 - 2022.06*, 阿里巴巴（北京）有限公司, 中国
+- *2020.11 - 2021.03*, 腾讯科技（北京）有限公司, 中国
