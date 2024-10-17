@@ -34,7 +34,7 @@ redirect_from:
 
 # 📝 Publications (Selected)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2024</div><img src='images/SGHAN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2024</div><img src='images/CGA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cross-view Graph Alignment for Mashup Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10542468)
@@ -117,7 +117,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSM 2022</div><img src='images/SGHAN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSM 2022</div><img src='images/HSGNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [High-order Social Graph Neural Network for Service Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9810972)
@@ -128,7 +128,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSM 2023</div><img src='images/SGHAN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSM 2023</div><img src='images/DRGL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dynamic Relation Graph Learning for Time-aware Service Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10288141)
@@ -138,7 +138,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICWS 2020</div><img src='images/SGHAN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICWS 2020</div><img src='images/AHSG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A-HSG: Neural Attentive Service Recommendation based on High-order Social Graph](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9283986)
