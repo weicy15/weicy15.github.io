@@ -78,7 +78,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Yu Wang, Bing Bai, Kai Ni, David J. Brady, Lu FANG.
 
-*International Conference on Machine Learning (ICML), 2023. *
+*International Conference on Machine Learning (ICML), 2023.*
 
 </div>
 </div>
