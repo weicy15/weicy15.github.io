@@ -75,6 +75,16 @@ Haozhe Lin *, **Chunyu Wei** *, Li He, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSM 2023</div><img src='images/DRGL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamic Relation Graph Learning for Time-aware Service Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10288141)
+
+**Chunyu Wei**, Yushun Fan, Jia Zhang, Zhixuan Jia, Ruyu Yan
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/CGI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -128,15 +138,6 @@ Haozhe Lin *, **Chunyu Wei** *, Li He, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSM 2023</div><img src='images/DRGL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Dynamic Relation Graph Learning for Time-aware Service Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10288141)
-
-**Chunyu Wei**, Yushun Fan, Jia Zhang, Zhixuan Jia, Ruyu Yan
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICWS 2020</div><img src='images/AHSG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
