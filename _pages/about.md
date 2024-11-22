@@ -26,7 +26,9 @@ redirect_from:
 - **仿真**：图约束的多智能体交互 （Graph Learning for Multi-agent Collaboration）  
 - **计算**：图使能的大语言模型 （Graph-Enhanced LLM）  
 
-**欢迎有意科研实习、攻读硕士、攻读博士的同学和我联系！！！**
+
+
+#  🎓欢迎有意科研实习、攻读硕士、攻读博士的同学和我联系！！！
 
 
 # 🔥 News
