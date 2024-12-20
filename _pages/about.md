@@ -196,3 +196,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 - *2022.07 - 2023.05*, 启元实验室, 中国
 - *2021.05 - 2022.06*, 阿里巴巴（北京）有限公司, 中国
 - *2020.11 - 2021.03*, 腾讯科技（北京）有限公司, 中国
+
+# 🏅 Services
+- Reviewer of T-PAMI, TOIS, TNNLS
+- PC Member of WWW 2025
