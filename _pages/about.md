@@ -17,13 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-韦淳于，博士，中国人民大学信息学院讲师，中国人民大学国家治理大数据和人工智能创新平台研究员。2019年于清华大学自动化系，获学士学位。2024年于清华大学自动化系，获博士学位。
+韦淳于，博士，中国人民大学信息学院讲师，中国人民大学国家治理大数据和人工智能创新平台研究员。2019年于清华大学自动化系，获学士学位。2024年于清华大学自动化系，获博士学位。在博士期间,我以第一作者发表高水平论文十三篇，研究成果在腾讯，阿里和快手等公司落地。
 
-研究方向为图机器学习和可信大模型，具体包括，面向复杂人机系统的多模态图数据的**建模**、**预测**、**仿真**、**计算**：  
+研究方向为图机器学习和知识增强大模型，具体包括:
+
+1. 面向复杂人机系统的多模态图数据的**建模**、**预测**、**仿真**、**计算**：  
 - **建模**：图数据合成（Graph Generation）  
-- **预测**：图表征学习（Graph Representation Learning）  
+- **预测**：图表征学习（Graph Representation Learning）
 - **仿真**：图约束的多智能体交互 （Graph Learning for Multi-agent Collaboration）  
-- **计算**：图使能的大语言模型 （Graph-Enhanced LLM）  
+- **计算**：拓扑感知的大语言模型 （Graph-aware LLM）
+
+2. 知识增强的大模型：
+- **上下文知识**：检索增强（RAG）
+- **参数知识**：知识编辑（Knowledge Editing）
 
 
 
@@ -36,6 +42,20 @@ redirect_from:
 
 
 # 📝 Publications (Selected)
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/GEL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Graph Evidential Learning for Anomaly Detection](https://www.google.com.hk/search?q=graph+evidential+learning+for+anomaly+detection&client=safari&sca_esv=9b9df1e98fe54543&sxsrf=AE3TifO4VR4t8u19pjw6Wss3n5xvYQdjMA%3A1748743471823&source=hp&ei=L7U7aJHWMMrk2roP_a_BoQc&iflsig=AOw8s4IAAAAAaDvDP4bLq8-I6gmZKw_0ImKUH92I-lH6&oq=g&gs_lp=Egdnd3Mtd2l6IgFnKgIIADIEECMYJzIKECMYgAQYJxiKBTIEECMYJzIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTILEC4YgAQY0QMYxwEyChAAGIAEGEMYigUyChAAGIAEGEMYigUyCxAuGIAEGNEDGMcBSN0LUABYAHAAeACQAQCYAfEBoAHxAaoBAzItMbgBA8gBAPgBAZgCAaAC-wGYAwCSBwMyLTGgB7wKsgcDMi0xuAf7AcIHAzMtMcgHCA&sclient=gws-wiz)
+
+**Chunyu Wei**, Wenji Hu, Xingjia Hao, Yunhai Wang, Yueguo Chen, Bing Bai, Fei Wang.
+
+*SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.*
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2024</div><img src='images/CGA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
