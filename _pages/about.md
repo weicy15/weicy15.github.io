@@ -47,7 +47,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/GEL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Graph Evidential Learning for Anomaly Detection](https://www.google.com.hk/search?q=graph+evidential+learning+for+anomaly+detection&client=safari&sca_esv=9b9df1e98fe54543&sxsrf=AE3TifO4VR4t8u19pjw6Wss3n5xvYQdjMA%3A1748743471823&source=hp&ei=L7U7aJHWMMrk2roP_a_BoQc&iflsig=AOw8s4IAAAAAaDvDP4bLq8-I6gmZKw_0ImKUH92I-lH6&oq=g&gs_lp=Egdnd3Mtd2l6IgFnKgIIADIEECMYJzIKECMYgAQYJxiKBTIEECMYJzIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTILEC4YgAQY0QMYxwEyChAAGIAEGEMYigUyChAAGIAEGEMYigUyCxAuGIAEGNEDGMcBSN0LUABYAHAAeACQAQCYAfEBoAHxAaoBAzItMbgBA8gBAPgBAZgCAaAC-wGYAwCSBwMyLTGgB7wKsgcDMi0xuAf7AcIHAzMtMcgHCA&sclient=gws-wiz)
+[Graph Evidential Learning for Anomaly Detection](https://arxiv.org/pdf/2506.00594)
 
 **Chunyu Wei**, Wenji Hu, Xingjia Hao, Yunhai Wang, Yueguo Chen, Bing Bai, Fei Wang.
 
