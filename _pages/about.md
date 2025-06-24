@@ -33,8 +33,7 @@ redirect_from:
 
 
 
-#  🎓欢迎有意科研实习、攻读硕士、攻读博士的同学和我联系！！！
-#  [招生介绍](https://365.kdocs.cn/l/chw2voSTrowu)
+#  🎓欢迎有意科研实习、攻读硕士、攻读博士的同学和我联系！！！[招生介绍](https://365.kdocs.cn/l/chw2voSTrowu)
 
 
 # 🔥 News
