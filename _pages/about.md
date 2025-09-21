@@ -45,6 +45,31 @@ redirect_from:
 # 📝 Publications (Selected)
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/GraphChain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GraphChain: Large Language Models for Large-scale Graph Analysis via Tool Chaining]
+
+**Chunyu Wei**, Wenji Hu, Xingjia Hao, Xin Wang, Yifan Yang, Yunhai Wang, Yang Tian, Yueguo Chen.
+
+*Conference on Neural Information Processing Systems (NeurIPS), 2025.*
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/CGADM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Conditional Diffusion Anomaly Modeling on Graphs]
+
+**Chunyu Wei**, Haozhe Lin, Yueguo Chen, Yunhai Wang.
+
+*Conference on Neural Information Processing Systems (NeurIPS), 2025.*
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/GEL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
