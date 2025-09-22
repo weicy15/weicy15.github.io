@@ -1,4 +1,4 @@
- ---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -25,7 +25,7 @@ redirect_from:
 - **建模**：图数据合成（Graph Generation）  
 - **预测**：图表征学习（Graph Representation Learning）
 - **仿真**：图约束的多智能体交互 （Graph Learning for Multi-agent Collaboration）  
-- **计算**：图基础模型 （Graph Foundation Model）
+- **计算**：拓扑感知的大语言模型 （Graph-aware LLM）
 
 2. 知识增强的大模型：
 - **上下文知识**：检索增强（RAG）
@@ -52,7 +52,7 @@ GraphChain: Large Language Models for Large-scale Graph Analysis via Tool Chaini
 
 **Chunyu Wei**, Wenji Hu, Xingjia Hao, Xin Wang, Yifan Yang, Yunhai Wang, Yang Tian, Yueguo Chen.
 
-*Conference on Neural Information Processing Systems (NeurIPS), 2025.* <font color=red>(CCF-A)</font>
+*Conference on Neural Information Processing Systems (NeurIPS), 2025.*
 
 </div>
 </div>
@@ -64,7 +64,7 @@ Conditional Diffusion Anomaly Modeling on Graphs
 
 **Chunyu Wei**, Haozhe Lin, Yueguo Chen, Yunhai Wang.
 
-*Conference on Neural Information Processing Systems (NeurIPS), 2025.* <font color=red>(CCF-A)</font>
+*Conference on Neural Information Processing Systems (NeurIPS), 2025.*
 
 </div>
 </div>
@@ -77,7 +77,7 @@ Conditional Diffusion Anomaly Modeling on Graphs
 
 **Chunyu Wei**, Wenji Hu, Xingjia Hao, Yunhai Wang, Yueguo Chen, Bing Bai, Fei Wang.
 
-*SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.* <font color=red>(CCF-A)</font>
+*SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.*
 
 </div>
 </div>
@@ -90,7 +90,7 @@ Conditional Diffusion Anomaly Modeling on Graphs
 
 **Chunyu Wei**, Yushun Fan, Zhixuan Jia, Jia Zhang.
 
-*IEEE Transactions on Services Computing (TSC)* <font color=red>(CCF-A)</font>
+*IEEE Transactions on Services Computing (TSC)*
 
 </div>
 </div>
@@ -103,7 +103,7 @@ Conditional Diffusion Anomaly Modeling on Graphs
 
 Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu FANG.
 
-*Conference on Computer Vision and Pattern Recognition (CVPR), 2024.* <font color=red>(CCF-A)</font>
+*Conference on Computer Vision and Pattern Recognition (CVPR), 2024.*
 
 </div>
 </div>
@@ -115,7 +115,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Jian Liang, Di Liu, Zehui Dai, Mang Li, Fei Wang.
 
-*SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.* <font color=red>(CCF-A)</font>
+*SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.*
 
 </div>
 </div>
@@ -127,7 +127,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Yu Wang, Bing Bai, Kai Ni, David J. Brady, Lu FANG.
 
-*International Conference on Machine Learning (ICML), 2023.* <font color=red>(CCF-A)</font>
+*International Conference on Machine Learning (ICML), 2023.*
 
 </div>
 </div>
@@ -139,7 +139,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Yushun Fan, Jia Zhang, Zhixuan Jia, Ruyu Yan. 
 
-*IEEE Transactions on Network and Service Management (TSNM).* 
+*IEEE Transactions on Network and Service Management (TSNM).*
 
 </div>
 </div>
@@ -147,13 +147,13 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/CGI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Contrastive Graph Structure Learning via Information Bottleneck for Recommendation](https://proceedings.neurips.cc/paper_files/paper/2022/file/803b9c4a8e4784072fdd791c54d614e2-Paper-Conference.pdf)
+[Contrastive Graph Structure Learning via Information Bottleneck for Recommendation](https://proceedings.mlr.press/v202/wei23c/wei23c.pdf)
 
 **Spotlight (<5%)**
 
 **Chunyu Wei**, Jian Liang, Di Liu, Fei Wang.
 
-*Conference on Neural Information Processing Systems (NeurIPS), 2022.* <font color=red>(CCF-A)</font>
+*Conference on Neural Information Processing Systems (NeurIPS), 2022.* 
 
 </div>
 </div>
@@ -166,7 +166,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Bing Bai, Kun Bai, Fei Wang.
 
-*International World Wide Web Conference (WWW), 2022.* <font color=red>(CCF-A)</font>
+*International World Wide Web Conference (WWW), 2022.*
 
 </div>
 </div>
@@ -178,7 +178,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Jian Liang, Bing Bai, Di Liu.
 
-*International Conference on Information and Knowledge Management (CIKM), 2022.* <font color=red>(CCF-B)</font>
+*International Conference on Information and Knowledge Management (CIKM), 2022.*
 
 
 </div>
@@ -192,7 +192,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Yushun Fan, Jia Zhang. 
 
-*IEEE Transactions on Services Computing (TSC)* <font color=red>(CCF-A)</font>
+*IEEE Transactions on Services Computing (TSC)*
 
 </div>
 </div>
@@ -218,7 +218,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Yushun Fan, Jia Zhang, Haozhe Lin.
 
-*IEEE International Conference on Web Services (ICWS), 2020.* <font color=red>(CCF-B)</font>
+*IEEE International Conference on Web Services (ICWS), 2020.*
 
 </div>
 </div>
@@ -243,5 +243,5 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 - *2020.11 - 2021.03*, 腾讯科技（北京）有限公司, 中国
 
 # 🏅 Services
-- Reviewer of T-PAMI, TOIS, TNNLS, KDD, ICML, Neursip, AAAI
+- Reviewer of T-PAMI, TOIS, TNNLS
 - PC Member of WWW 2025
