@@ -52,7 +52,7 @@ GraphChain: Large Language Models for Large-scale Graph Analysis via Tool Chaini
 
 **Chunyu Wei**, Wenji Hu, Xingjia Hao, Xin Wang, Yifan Yang, Yunhai Wang, Yang Tian, Yueguo Chen.
 
-*Conference on Neural Information Processing Systems (NeurIPS), 2025.* (CCF-A)
+*Conference on Neural Information Processing Systems (NeurIPS), 2025.* <font color=red>(CCF-A)</font>
 
 </div>
 </div>
@@ -64,7 +64,7 @@ Conditional Diffusion Anomaly Modeling on Graphs
 
 **Chunyu Wei**, Haozhe Lin, Yueguo Chen, Yunhai Wang.
 
-*Conference on Neural Information Processing Systems (NeurIPS), 2025.* (CCF-A)
+*Conference on Neural Information Processing Systems (NeurIPS), 2025.* <font color=red>(CCF-A)</font>
 
 </div>
 </div>
@@ -77,7 +77,7 @@ Conditional Diffusion Anomaly Modeling on Graphs
 
 **Chunyu Wei**, Wenji Hu, Xingjia Hao, Yunhai Wang, Yueguo Chen, Bing Bai, Fei Wang.
 
-*SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.* (CCF-A)
+*SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.* <font color=red>(CCF-A)</font>
 
 </div>
 </div>
@@ -90,7 +90,7 @@ Conditional Diffusion Anomaly Modeling on Graphs
 
 **Chunyu Wei**, Yushun Fan, Zhixuan Jia, Jia Zhang.
 
-*IEEE Transactions on Services Computing (TSC)* (CCF-A)
+*IEEE Transactions on Services Computing (TSC)* <font color=red>(CCF-A)</font>
 
 </div>
 </div>
@@ -103,7 +103,7 @@ Conditional Diffusion Anomaly Modeling on Graphs
 
 Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu FANG.
 
-*Conference on Computer Vision and Pattern Recognition (CVPR), 2024.* (CCF-A)
+*Conference on Computer Vision and Pattern Recognition (CVPR), 2024.* <font color=red>(CCF-A)</font>
 
 </div>
 </div>
@@ -115,7 +115,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Jian Liang, Di Liu, Zehui Dai, Mang Li, Fei Wang.
 
-*SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.* (CCF-A)
+*SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.* <font color=red>(CCF-A)</font>
 
 </div>
 </div>
@@ -127,7 +127,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Yu Wang, Bing Bai, Kai Ni, David J. Brady, Lu FANG.
 
-*International Conference on Machine Learning (ICML), 2023.* (CCF-A)
+*International Conference on Machine Learning (ICML), 2023.* <font color=red>(CCF-A)</font>
 
 </div>
 </div>
@@ -153,7 +153,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Jian Liang, Di Liu, Fei Wang.
 
-*Conference on Neural Information Processing Systems (NeurIPS), 2022.* (CCF-A)
+*Conference on Neural Information Processing Systems (NeurIPS), 2022.* <font color=red>(CCF-A)</font>
 
 </div>
 </div>
@@ -166,7 +166,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Bing Bai, Kun Bai, Fei Wang.
 
-*International World Wide Web Conference (WWW), 2022.* (CCF-A)
+*International World Wide Web Conference (WWW), 2022.* <font color=red>(CCF-A)</font>
 
 </div>
 </div>
@@ -178,7 +178,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Jian Liang, Bing Bai, Di Liu.
 
-*International Conference on Information and Knowledge Management (CIKM), 2022.* (CCF-B)
+*International Conference on Information and Knowledge Management (CIKM), 2022.* <font color=red>(CCF-B)</font>
 
 
 </div>
@@ -192,7 +192,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Yushun Fan, Jia Zhang. 
 
-*IEEE Transactions on Services Computing (TSC)* (CCF-A)
+*IEEE Transactions on Services Computing (TSC)* <font color=red>(CCF-A)</font>
 
 </div>
 </div>
@@ -218,7 +218,7 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 
 **Chunyu Wei**, Yushun Fan, Jia Zhang, Haozhe Lin.
 
-*IEEE International Conference on Web Services (ICWS), 2020.* (CCF-B)
+*IEEE International Conference on Web Services (ICWS), 2020.* <font color=red>(CCF-B)</font>
 
 </div>
 </div>
@@ -243,5 +243,5 @@ Haozhe Lin *, **Chunyu Wei** *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, L
 - *2020.11 - 2021.03*, 腾讯科技（北京）有限公司, 中国
 
 # 🏅 Services
-- Reviewer of T-PAMI, TOIS, TNNLS
+- Reviewer of T-PAMI, TOIS, TNNLS, KDD, ICML, Neursip, AAAI
 - PC Member of WWW 2025
