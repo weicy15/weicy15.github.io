@@ -25,7 +25,7 @@ redirect_from:
 - **建模**：图数据合成（Graph Generation）  
 - **预测**：图表征学习（Graph Representation Learning）
 - **仿真**：图约束的多智能体交互 （Graph Learning for Multi-agent Collaboration）  
-- **计算**：拓扑感知的大语言模型 （Graph-aware LLM）
+- **计算**：图基础模型 （Graph Foundation Model）
 
 2. 知识增强的大模型：
 - **上下文知识**：检索增强（RAG）
