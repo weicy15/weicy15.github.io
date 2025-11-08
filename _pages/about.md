@@ -45,11 +45,23 @@ redirect_from:
 
 # 📝 Publications (Selected)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/T-Retriever.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+T-Retriever: Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs
+
+**Chunyu Wei**, Huaiyu Qin, Siyuan He, Yunhai Wang, Yueguo Chen.
+
+*AAAI Conference on Artificial Intelligence (AAAI), 2026.* <span style="color:blue">(CCF-A)</span>
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/GraphChain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-GraphChain: Large Language Models for Large-scale Graph Analysis via Tool Chaining
+[GraphChain: Large Language Models for Large-scale Graph Analysis via Tool Chaining](https://arxiv.org/pdf/2511.00457)
 
 **Chunyu Wei**, Wenji Hu, Xingjia Hao, Xin Wang, Yifan Yang, Yunhai Wang, Yang Tian, Yueguo Chen.
 
