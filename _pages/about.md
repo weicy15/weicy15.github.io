@@ -45,6 +45,19 @@ redirect_from:
 
 # 📝 Publications (Selected)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/BAED.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Balanced Anomaly-guided Ego-graph Diffusion Model for Inductive Graph Anomaly Detection
+
+<span style="font-size: 1.2em;">**Chunyu Wei**</span>, Siyuan He, Yu Wang, Yueguo Chen, Yunhai Wang, Bing Bai, Yidong Zhang, Yong Xie, Shunming Zhang, Fei Wang.
+
+*SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.* <span style="color:blue">(CCF-A)</span>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/T-Retriever.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
