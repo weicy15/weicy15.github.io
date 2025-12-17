@@ -74,6 +74,19 @@ T-Retriever: Tree-based Hierarchical Retrieval Augmented Generation for Textual 
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2026</div><img src='images/GDMSR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Graph-based Diffusion Model for Service Recommendation
+
+Xuan Zhang, Xiang Deng, Hongxing Yuan, <span style="font-size: 1.2em;">**Chunyu Wei**</span>✉, Yushun Fan✉, Jia Zhang.
+
+*IEEE Transactions on Services Computing (TSC)* <span style="color:blue">(CCF-A)</span>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/GraphChain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
