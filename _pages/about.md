@@ -64,7 +64,7 @@ Balanced Anomaly-guided Ego-graph Diffusion Model for Inductive Graph Anomaly De
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/T-Retriever.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-T-Retriever: Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs
+[T-Retriever: Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs](https://arxiv.org/pdf/2601.04945)
 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Huaiyu Qin, Siyuan He, Yunhai Wang, Yueguo Chen.
 
