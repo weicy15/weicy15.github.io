@@ -48,6 +48,32 @@ redirect_from:
 
 # 📝 Publications (Selected)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/CF-RAG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Counterfactual Reasoning for Retrieval-Augmented Generation
+
+Huaiyu Qin, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Yueguo Chen, Yunhai Wang
+
+*The International Conference on Learning Representations (ICLR), 2026.* <span style="color:blue">(CAAI-A)</span>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/Unicoon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Unicoon: Hypergraph-based Multi-Agent Simulation of Information Cocoons
+
+<span style="font-size: 1.2em;">**Chunyu Wei**</span>, Yongsiqi Tu, Yunhai Wang.
+
+*THE ACM Web Conference (WWW), 2026.* <span style="color:blue">(CCF-A)</span>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/BAED.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
