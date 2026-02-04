@@ -17,80 +17,82 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div style="border-left: 4px solid #2c3e50; padding-left: 20px; margin-bottom: 30px; background-color: #f8f9fa; padding: 20px; border-radius: 3px;">
-  <p style="margin: 0 0 15px 0; font-size: 1.1em; color: #2c3e50; line-height: 1.8;">
-    <strong style="font-size: 1.2em;">韦淳于</strong>，博士，硕士生导师。中国人民大学信息学院讲师，中国人民大学国家治理大数据和人工智能创新平台研究员。
+
+<div style="border-left: 5px solid #0066cc; padding: 25px; margin-bottom: 35px; background: linear-gradient(to right, #f5f8ff 0%, #ffffff 100%); border-radius: 8px; box-shadow: 0 2px 12px rgba(0,102,204,0.08);">
+  <p style="margin: 0 0 18px 0; font-size: 1.15em; color: #1a1a1a; line-height: 1.8;">
+    <strong style="font-size: 1.3em; color: #0066cc;">韦淳于</strong>，博士，硕士生导师。中国人民大学信息学院讲师，中国人民大学国家治理大数据和人工智能创新平台研究员。
   </p>
-  <p style="margin: 0; color: #555; line-height: 1.8;">
+  <p style="margin: 0; color: #444; line-height: 1.8;">
     2019年于清华大学自动化系获学士学位，2024年于清华大学自动化系获博士学位。在博士期间，以第一作者发表高水平论文十三篇，研究成果在腾讯、阿里和快手等公司落地。
   </p>
 </div>
 
-<div style="border: 2px solid #e0e0e0; padding: 25px; margin-bottom: 30px; background-color: #fafafa; border-radius: 3px;">
-  <h3 style="margin-top: 0; color: #2c3e50; font-weight: 600; border-bottom: 2px solid #2c3e50; padding-bottom: 8px; display: inline-block;">
+<div style="border: 1px solid #e5e5e5; padding: 30px; margin-bottom: 35px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 12px rgba(0,0,0,0.06);">
+  <h3 style="margin-top: 0; color: #0066cc; font-weight: 700; border-bottom: 3px solid #0066cc; padding-bottom: 10px; margin-bottom: 25px; font-size: 1.3em;">
     研究领域：关系智能 (Relational Intelligence)
   </h3>
   
-  <p style="margin: 20px 0; color: #333; line-height: 1.8; font-size: 1.05em;">
+  <p style="margin: 20px 0; color: #333; line-height: 1.9; font-size: 1.05em;">
     关系智能是理解和建模复杂系统中多层次关系结构的科学范式，涵盖以下四个层次：
   </p>
   
-  <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
-    <tr style="background-color: #f0f0f0;">
-      <th style="padding: 12px; text-align: left; border: 1px solid #ddd; width: 25%; font-weight: 600;">层次</th>
-      <th style="padding: 12px; text-align: left; border: 1px solid #ddd; font-weight: 600;">研究内容</th>
+  <table style="width: 100%; border-collapse: collapse; margin-top: 25px; margin-bottom: 30px;">
+    <tr style="background: linear-gradient(to right, #0066cc 0%, #0080ff 100%); color: white;">
+      <th style="padding: 14px; text-align: left; border: none; width: 25%; font-weight: 600; font-size: 1.05em;">层次</th>
+      <th style="padding: 14px; text-align: left; border: none; font-weight: 600; font-size: 1.05em;">研究内容</th>
+    </tr>
+    <tr style="background-color: #f8fbff;">
+      <td style="padding: 14px; border: 1px solid #e8e8e8; vertical-align: top;"><strong style="color: #0066cc;">Token-level</strong></td>
+      <td style="padding: 14px; border: 1px solid #e8e8e8; color: #333;">语义空间中的符号关联与知识表征</td>
     </tr>
     <tr>
-      <td style="padding: 12px; border: 1px solid #ddd; vertical-align: top;"><strong>Token-level</strong></td>
-      <td style="padding: 12px; border: 1px solid #ddd;">语义空间中的符号关联与知识表征</td>
+      <td style="padding: 14px; border: 1px solid #e8e8e8; vertical-align: top;"><strong style="color: #0066cc;">Entity-level</strong></td>
+      <td style="padding: 14px; border: 1px solid #e8e8e8; color: #333;">知识图谱中的实体关联与推理机制</td>
     </tr>
-    <tr style="background-color: #f9f9f9;">
-      <td style="padding: 12px; border: 1px solid #ddd; vertical-align: top;"><strong>Entity-level</strong></td>
-      <td style="padding: 12px; border: 1px solid #ddd;">知识图谱中的实体关联与推理机制</td>
+    <tr style="background-color: #f8fbff;">
+      <td style="padding: 14px; border: 1px solid #e8e8e8; vertical-align: top;"><strong style="color: #0066cc;">Node-level</strong></td>
+      <td style="padding: 14px; border: 1px solid #e8e8e8; color: #333;">图网络中的节点交互与传播动力学</td>
     </tr>
     <tr>
-      <td style="padding: 12px; border: 1px solid #ddd; vertical-align: top;"><strong>Node-level</strong></td>
-      <td style="padding: 12px; border: 1px solid #ddd;">图网络中的节点交互与传播动力学</td>
-    </tr>
-    <tr style="background-color: #f9f9f9;">
-      <td style="padding: 12px; border: 1px solid #ddd; vertical-align: top;"><strong>Agent-level</strong></td>
-      <td style="padding: 12px; border: 1px solid #ddd;">多智能体系统中的协作与博弈行为</td>
+      <td style="padding: 14px; border: 1px solid #e8e8e8; vertical-align: top;"><strong style="color: #0066cc;">Agent-level</strong></td>
+      <td style="padding: 14px; border: 1px solid #e8e8e8; color: #333;">多智能体系统中的协作与博弈行为</td>
     </tr>
   </table>
   
-  <h3 style="margin-top: 0; color: #2c3e50; font-weight: 600; border-bottom: 2px solid #2c3e50; padding-bottom: 8px; display: inline-block;">
+  <h3 style="margin-top: 35px; color: #0066cc; font-weight: 700; border-bottom: 3px solid #0066cc; padding-bottom: 10px; margin-bottom: 25px; font-size: 1.3em;">
     研究项目
   </h3>
   
-  <div style="margin-top: 25px;">
-    <h4 style="color: #2c3e50; margin-bottom: 12px; font-weight: 600;">1. 面向复杂人机系统的多模态图数据的建模、预测、仿真与计算</h4>
-    <ul style="line-height: 1.8; color: #333; margin-left: 20px;">
-      <li style="margin-bottom: 8px;"><strong>建模</strong>：图数据合成（Graph Generation）</li>
-      <li style="margin-bottom: 8px;"><strong>预测</strong>：图表征学习（Graph Representation Learning）</li>
-      <li style="margin-bottom: 8px;"><strong>仿真</strong>：多智能体交互（Multi-agent Collaboration）</li>
-      <li style="margin-bottom: 8px;"><strong>计算</strong>：图基础模型（Graph Foundation Model）</li>
+  <div style="margin-top: 25px; padding: 20px; background-color: #f8fbff; border-radius: 6px; border-left: 4px solid #0080ff;">
+    <h4 style="color: #0066cc; margin-bottom: 15px; font-weight: 600; font-size: 1.1em;">1. 面向复杂人机系统的多模态图数据的建模、预测、仿真与计算</h4>
+    <ul style="line-height: 1.9; color: #333; margin-left: 20px;">
+      <li style="margin-bottom: 10px;"><strong style="color: #0066cc;">建模</strong>：图数据合成（Graph Generation）</li>
+      <li style="margin-bottom: 10px;"><strong style="color: #0066cc;">预测</strong>：图表征学习（Graph Representation Learning）</li>
+      <li style="margin-bottom: 10px;"><strong style="color: #0066cc;">仿真</strong>：多智能体交互（Multi-agent Collaboration）</li>
+      <li style="margin-bottom: 10px;"><strong style="color: #0066cc;">计算</strong>：图基础模型（Graph Foundation Model）</li>
     </ul>
   </div>
   
-  <div style="margin-top: 25px;">
-    <h4 style="color: #2c3e50; margin-bottom: 12px; font-weight: 600;">2. 知识增强的大模型</h4>
-    <ul style="line-height: 1.8; color: #333; margin-left: 20px;">
-      <li style="margin-bottom: 8px;"><strong>上下文知识</strong>：检索增强（RAG）</li>
-      <li style="margin-bottom: 8px;"><strong>参数知识</strong>：知识编辑（Knowledge Editing）</li>
-      <li style="margin-bottom: 8px;"><strong>个性化</strong>：模型个性化（Personalization）</li>
+  <div style="margin-top: 20px; padding: 20px; background-color: #f8fbff; border-radius: 6px; border-left: 4px solid #0080ff;">
+    <h4 style="color: #0066cc; margin-bottom: 15px; font-weight: 600; font-size: 1.1em;">2. 知识增强的大模型</h4>
+    <ul style="line-height: 1.9; color: #333; margin-left: 20px;">
+      <li style="margin-bottom: 10px;"><strong style="color: #0066cc;">上下文知识</strong>：检索增强（RAG）</li>
+      <li style="margin-bottom: 10px;"><strong style="color: #0066cc;">参数知识</strong>：知识编辑（Knowledge Editing）</li>
+      <li style="margin-bottom: 10px;"><strong style="color: #0066cc;">个性化</strong>：模型个性化（Personalization）</li>
     </ul>
   </div>
 </div>
 
-<div style="background: linear-gradient(135deg, #fdeb71 0%, #f8d800 100%); padding: 25px; border-radius: 5px; margin-bottom: 30px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  <h3 style="color: #2c3e50; margin: 0 0 15px 0; font-size: 1.4em; font-weight: 600;">联系我们</h3>
-  <p style="color: #2c3e50; font-size: 1.05em; margin-bottom: 20px; line-height: 1.8;">
+<div style="background: linear-gradient(135deg, #0066cc 0%, #0080ff 100%); padding: 30px; border-radius: 8px; margin-bottom: 35px; text-align: center; box-shadow: 0 4px 20px rgba(0,102,204,0.25);">
+  <h3 style="color: white; margin: 0 0 15px 0; font-size: 1.5em; font-weight: 700;">联系我们</h3>
+  <p style="color: rgba(255,255,255,0.95); font-size: 1.05em; margin-bottom: 25px; line-height: 1.8;">
     欢迎有意科研实习、攻读硕士、攻读博士（与陈跃国教授合作指导）的同学联系！
   </p>
-  <a href="mailto:weichunyu@ruc.edu.cn" style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 35px; border-radius: 25px; text-decoration: none; font-weight: bold; font-size: 1.05em; box-shadow: 0 4px 15px rgba(102,126,234,0.4); transition: transform 0.3s;">
+  <a href="mailto:weichunyu@ruc.edu.cn" style="display: inline-block; background-color: white; color: #0066cc; padding: 14px 40px; border-radius: 30px; text-decoration: none; font-weight: 700; font-size: 1.05em; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: all 0.3s; border: 2px solid white;">
     ✉️ weichunyu@ruc.edu.cn
   </a>
 </div>
+
 ---
 
 # 🔥 News
