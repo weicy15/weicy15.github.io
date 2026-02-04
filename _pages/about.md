@@ -17,25 +17,108 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-韦淳于，博士，硕士生导师。中国人民大学信息学院讲师，中国人民大学国家治理大数据和人工智能创新平台研究员。  
-2019年于清华大学自动化系，获学士学位。2024年于清华大学自动化系，获博士学位。在博士期间,我以第一作者发表高水平论文十三篇，研究成果在腾讯，阿里和快手等公司落地。
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; margin-bottom: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);">
+  <div style="background: rgba(255,255,255,0.95); padding: 25px; border-radius: 12px; border-left: 5px solid #667eea;">
+    <h2 style="color: #667eea; margin-top: 0; font-weight: bold; font-size: 1.8em;">韦淳于 | Chunyu Wei</h2>
+    <p style="color: #2c3e50; font-size: 1.1em; line-height: 1.8; margin-bottom: 15px;">
+      <strong>博士，硕士生导师</strong><br>
+      中国人民大学信息学院 讲师<br>
+      中国人民大学国家治理大数据和人工智能创新平台 兼职研究员
+    </p>
+    <div style="background: linear-gradient(to right, #f8f9fa 0%, #e9ecef 100%); padding: 15px; border-radius: 8px; margin-top: 15px;">
+      <p style="margin: 0; color: #495057; font-size: 0.95em;">
+        🎓 2019年于<strong>清华大学自动化系</strong>获学士学位<br>
+        🎓 2024年于<strong>清华大学自动化系</strong>获博士学位<br>
+        📝 博士期间以第一作者发表<strong style="color: #667eea;">高水平论文十三篇</strong><br>
+        🏢 研究成果在<strong>腾讯、阿里、快手</strong>等头部企业落地应用
+      </p>
+    </div>
+  </div>
+</div>
 
-研究方向为图机器学习和知识增强大模型，具体包括:
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 3px; border-radius: 12px; margin-bottom: 30px;">
+  <div style="background: white; padding: 25px; border-radius: 10px;">
+    <h2 style="color: #f5576c; border-bottom: 3px solid #f5576c; padding-bottom: 10px; margin-top: 0;">
+      🔬 研究核心：关系智能 (Relational Intelligence)
+    </h2>
+    <p style="color: #2c3e50; font-size: 1.05em; line-height: 1.8; font-style: italic; margin-bottom: 20px;">
+      致力于解析和建模复杂系统中的多层次关系结构，从微观的<strong>符号关联</strong>到宏观的<strong>智能体协同</strong>，构建统一的关系智能理论框架
+    </p>
+    
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 20px;">
+      <div style="background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); padding: 15px; border-radius: 10px; border-left: 4px solid #667eea;">
+        <h4 style="color: #667eea; margin-top: 0; margin-bottom: 8px;">🔵 Token-level Relations</h4>
+        <p style="margin: 0; font-size: 0.9em; color: #555;">语义空间中的符号关联与知识表征</p>
+      </div>
+      
+      <div style="background: linear-gradient(135deg, #f093fb15 0%, #f5576c15 100%); padding: 15px; border-radius: 10px; border-left: 4px solid #f5576c;">
+        <h4 style="color: #f5576c; margin-top: 0; margin-bottom: 8px;">🔴 Entity-level Relations</h4>
+        <p style="margin: 0; font-size: 0.9em; color: #555;">知识图谱中的实体关联与推理</p>
+      </div>
+      
+      <div style="background: linear-gradient(135deg, #fa709a15 0%, #fee14015 100%); padding: 15px; border-radius: 10px; border-left: 4px solid #fa709a;">
+        <h4 style="color: #fa709a; margin-top: 0; margin-bottom: 8px;">🟠 Node-level Relations</h4>
+        <p style="margin: 0; font-size: 0.9em; color: #555;">图网络中的节点交互与传播动力学</p>
+      </div>
+      
+      <div style="background: linear-gradient(135deg, #30cfd015 0%, #33086715 100%); padding: 15px; border-radius: 10px; border-left: 4px solid #30cfd0;">
+        <h4 style="color: #30cfd0; margin-top: 0; margin-bottom: 8px;">🟢 Agent-level Relations</h4>
+        <p style="margin: 0; font-size: 0.9em; color: #555;">多智能体系统中的协作与博弈</p>
+      </div>
+    </div>
+  </div>
+</div>
 
-1. 面向复杂人机系统的多模态图数据的**建模**、**预测**、**仿真**、**计算**：  
-- **建模**：图数据合成（Graph Generation）  
-- **预测**：图表征学习（Graph Representation Learning）
-- **仿真**：多智能体交互 （Multi-agent Collaboration）  
-- **计算**：图基础模型 （Graph Foundation Model）
+<div style="background: linear-gradient(to right, #4facfe 0%, #00f2fe 100%); padding: 3px; border-radius: 12px; margin-bottom: 30px;">
+  <div style="background: white; padding: 25px; border-radius: 10px;">
+    <h2 style="color: #4facfe; margin-top: 0; margin-bottom: 20px;">🎯 研究方向</h2>
+    
+<div style="margin-bottom: 25px;">
+      <h3 style="color: #2c3e50; margin-bottom: 15px; font-size: 1.3em;">
+        <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">
+          一、图机器学习 (Graph Machine Learning)
+        </span>
+      </h3>
+      <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; border-left: 5px solid #667eea;">
+        <p style="margin: 0 0 10px 0; color: #2c3e50; font-weight: bold;">面向复杂人机系统的多模态图数据智能处理：</p>
+        <ul style="margin: 0; padding-left: 25px; color: #495057;">
+          <li style="margin-bottom: 8px;"><strong style="color: #667eea;">建模</strong>：图数据合成 (Graph Generation) — 从数据分布中学习生成新的图结构</li>
+          <li style="margin-bottom: 8px;"><strong style="color: #764ba2;">预测</strong>：图表征学习 (Graph Representation Learning) — 提取图的低维稠密表示</li>
+          <li style="margin-bottom: 8px;"><strong style="color: #f093fb;">仿真</strong>：多智能体交互 (Multi-agent Collaboration) — 模拟复杂系统的动态演化</li>
+          <li style="margin-bottom: 0;"><strong style="color: #f5576c;">计算</strong>：图基础模型 (Graph Foundation Model) — 构建统一的图数据处理范式</li>
+        </ul>
+      </div>
+    </div>
+    
+<div>
+      <h3 style="color: #2c3e50; margin-bottom: 15px; font-size: 1.3em;">
+        <span style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">
+          二、知识增强大模型 (Knowledge-Enhanced LLMs)
+        </span>
+      </h3>
+      <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; border-left: 5px solid #f5576c;">
+        <ul style="margin: 0; padding-left: 25px; color: #495057;">
+          <li style="margin-bottom: 8px;"><strong style="color: #f093fb;">上下文知识</strong>：检索增强生成 (RAG) — 动态引入外部知识增强推理能力</li>
+          <li style="margin-bottom: 8px;"><strong style="color: #f5576c;">参数知识</strong>：知识编辑 (Knowledge Editing) — 精确修正模型内部知识表示</li>
+          <li style="margin-bottom: 0;"><strong style="color: #fa709a;">个性化</strong>：模型个性化 (Personalization) — 适配特定场景与用户需求</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 
-2. 知识增强的大模型：
-- **上下文知识**：检索增强（RAG）
-- **参数知识**：知识编辑（Knowledge Editing）
+<div style="background: linear-gradient(135deg, #fdeb71 0%, #f8d800 100%); padding: 25px; border-radius: 12px; margin-bottom: 30px; text-align: center; box-shadow: 0 8px 20px rgba(248,216,0,0.3);">
+  <h2 style="color: #2c3e50; margin: 0 0 15px 0; font-size: 1.6em;">🎓 招生信息</h2>
+  <p style="color: #2c3e50; font-size: 1.15em; margin-bottom: 20px; line-height: 1.8;">
+    <strong>热烈欢迎</strong>有志于从事前沿科研的优秀学生加入课题组！<br>
+    <span style="font-size: 0.95em;">科研实习生 | 硕士研究生 | 博士研究生（与陈跃国教授合作指导）</span>
+  </p>
+  <a href="https://365.kdocs.cn/l/chw2voSTrowu" style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 35px; border-radius: 25px; text-decoration: none; font-weight: bold; font-size: 1.1em; box-shadow: 0 4px 15px rgba(102,126,234,0.4); transition: transform 0.3s;">
+    📋 查看详细招生介绍
+  </a>
+</div>
 
-
-
-#  🎓欢迎有意科研实习、攻读硕士、攻读博士（与陈跃国老师合作指导）的同学和我联系！！！[招生介绍](https://365.kdocs.cn/l/chw2voSTrowu)
-
+---
 
 # 🔥 News
 - *2025.11*: 获批SMP-清智大模型基金
