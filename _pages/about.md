@@ -39,7 +39,7 @@ redirect_from:
 <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 3px; border-radius: 12px; margin-bottom: 30px;">
   <div style="background: white; padding: 25px; border-radius: 10px;">
     <h2 style="color: #f5576c; border-bottom: 3px solid #f5576c; padding-bottom: 10px; margin-top: 0;">
-      🔬 研究核心：关系智能 (Relational Intelligence)
+      🔬 关系智能 (Relational Intelligence)
     </h2>
     <p style="color: #2c3e50; font-size: 1.05em; line-height: 1.8; font-style: italic; margin-bottom: 20px;">
       致力于解析和建模复杂系统中的多层次关系结构，从微观的<strong>符号关联</strong>到宏观的<strong>智能体协同</strong>，构建统一的关系智能理论框架
@@ -71,7 +71,7 @@ redirect_from:
 
 <div style="background: linear-gradient(to right, #4facfe 0%, #00f2fe 100%); padding: 3px; border-radius: 12px; margin-bottom: 30px;">
   <div style="background: white; padding: 25px; border-radius: 10px;">
-    <h2 style="color: #4facfe; margin-top: 0; margin-bottom: 20px;">🎯 研究方向</h2>
+    <h2 style="color: #4facfe; margin-top: 0; margin-bottom: 20px;">🎯 具体研究项目</h2>
     
 <div style="margin-bottom: 25px;">
       <h3 style="color: #2c3e50; margin-bottom: 15px; font-size: 1.3em;">
