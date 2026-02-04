@@ -32,7 +32,7 @@ redirect_from:
   </h3>
   
   <p style="margin: 20px 0; color: #333; line-height: 1.8; font-size: 1.05em;">
-    关系智能是理解和建模复杂系统中多层次关系结构的科学范式。本研究聚焦于从微观符号到宏观智能体的跨尺度关系建模，涵盖以下四个层次：
+    关系智能是理解和建模复杂系统中多层次关系结构的科学范式，涵盖以下四个层次：
   </p>
   
   <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
@@ -57,9 +57,7 @@ redirect_from:
       <td style="padding: 12px; border: 1px solid #ddd;">多智能体系统中的协作与博弈行为</td>
     </tr>
   </table>
-</div>
-
-<div style="border: 2px solid #e0e0e0; padding: 25px; margin-bottom: 30px; background-color: #fafafa; border-radius: 3px;">
+  
   <h3 style="margin-top: 0; color: #2c3e50; font-weight: 600; border-bottom: 2px solid #2c3e50; padding-bottom: 8px; display: inline-block;">
     研究项目
   </h3>
