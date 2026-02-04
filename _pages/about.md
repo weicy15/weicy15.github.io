@@ -132,6 +132,17 @@ Balanced Anomaly-guided Ego-graph Diffusion Model for Inductive Graph Anomaly De
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2026</div><img src='images/GDMSR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Graph-based Diffusion Model for Service Recommendation
+
+Xuan Zhang, Xiang Deng, Hongxing Yuan, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Yushun Fan<sup>✉</sup>, Jia Zhang.
+
+*IEEE Transactions on Services Computing (TSC)* <span style="color:blue">(CCF-A)</span>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/T-Retriever.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -153,18 +164,6 @@ Unicoon: Hypergraph-based Multi-Agent Simulation of Information Cocoons
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Yongsiqi Tu, Yunhai Wang.
 
 *THE ACM Web Conference (WWW), 2026.* <span style="color:blue">(CCF-A)</span>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2026</div><img src='images/GDMSR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Graph-based Diffusion Model for Service Recommendation
-
-Xuan Zhang, Xiang Deng, Hongxing Yuan, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Yushun Fan<sup>✉</sup>, Jia Zhang.
-
-*IEEE Transactions on Services Computing (TSC)* <span style="color:blue">(CCF-A)</span>
 
 </div>
 </div>
