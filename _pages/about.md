@@ -41,19 +41,19 @@ redirect_from:
       <th style="padding: 12px; text-align: left; border: 1px solid #ddd; font-weight: 600;">研究内容</th>
     </tr>
     <tr>
-      <td style="padding: 12px; border: 1px solid #ddd; vertical-align: top;"><strong>Token-level Relations</strong></td>
+      <td style="padding: 12px; border: 1px solid #ddd; vertical-align: top;"><strong>Token-level</strong></td>
       <td style="padding: 12px; border: 1px solid #ddd;">语义空间中的符号关联与知识表征</td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td style="padding: 12px; border: 1px solid #ddd; vertical-align: top;"><strong>Entity-level Relations</strong></td>
+      <td style="padding: 12px; border: 1px solid #ddd; vertical-align: top;"><strong>Entity-level</strong></td>
       <td style="padding: 12px; border: 1px solid #ddd;">知识图谱中的实体关联与推理机制</td>
     </tr>
     <tr>
-      <td style="padding: 12px; border: 1px solid #ddd; vertical-align: top;"><strong>Node-level Relations</strong></td>
+      <td style="padding: 12px; border: 1px solid #ddd; vertical-align: top;"><strong>Node-level</strong></td>
       <td style="padding: 12px; border: 1px solid #ddd;">图网络中的节点交互与传播动力学</td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td style="padding: 12px; border: 1px solid #ddd; vertical-align: top;"><strong>Agent-level Relations</strong></td>
+      <td style="padding: 12px; border: 1px solid #ddd; vertical-align: top;"><strong>Agent-level</strong></td>
       <td style="padding: 12px; border: 1px solid #ddd;">多智能体系统中的协作与博弈行为</td>
     </tr>
   </table>
@@ -84,17 +84,15 @@ redirect_from:
   </div>
 </div>
 
-<div style="background: linear-gradient(135deg, #fdeb71 0%, #f8d800 100%); padding: 25px; border-radius: 12px; margin-bottom: 30px; text-align: center; box-shadow: 0 8px 20px rgba(248,216,0,0.3);">
-  <h2 style="color: #2c3e50; margin: 0 0 15px 0; font-size: 1.6em;">🎓 招生信息</h2>
-  <p style="color: #2c3e50; font-size: 1.15em; margin-bottom: 20px; line-height: 1.8;">
-    <strong>热烈欢迎</strong>有志于从事前沿科研的优秀学生加入课题组！<br>
-    <span style="font-size: 0.95em;">科研实习生 | 硕士研究生 | 博士研究生（与陈跃国教授合作指导）</span>
+<div style="background: linear-gradient(135deg, #fdeb71 0%, #f8d800 100%); padding: 25px; border-radius: 5px; margin-bottom: 30px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <h3 style="color: #2c3e50; margin: 0 0 15px 0; font-size: 1.4em; font-weight: 600;">联系我们</h3>
+  <p style="color: #2c3e50; font-size: 1.05em; margin-bottom: 20px; line-height: 1.8;">
+    欢迎有意科研实习、攻读硕士、攻读博士（与陈跃国教授合作指导）的同学联系！
   </p>
-  <a href="https://365.kdocs.cn/l/chw2voSTrowu" style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 35px; border-radius: 25px; text-decoration: none; font-weight: bold; font-size: 1.1em; box-shadow: 0 4px 15px rgba(102,126,234,0.4); transition: transform 0.3s;">
-    📋 查看详细招生介绍
+  <a href="mailto:chunyuwei@ruc.edu.cn" style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 35px; border-radius: 25px; text-decoration: none; font-weight: bold; font-size: 1.05em; box-shadow: 0 4px 15px rgba(102,126,234,0.4); transition: transform 0.3s;">
+    ✉️ chunyuwei@ruc.edu.cn
   </a>
 </div>
-
 ---
 
 # 🔥 News
