@@ -89,6 +89,9 @@ redirect_from:
     欢迎有意<strong style="font-size: 1.15em;">科研实习</strong>、攻读<strong style="font-size: 1.15em;">硕士</strong>、攻读<strong style="font-size: 1.15em;">博士</strong><br/>（与陈跃国教授合作指导）的同学联系！
   </p>
   <a href="mailto:weichunyu@ruc.edu.cn" style="display: inline-block; background-color: white; color: #0066cc; padding: 18px 50px; border-radius: 35px; text-decoration: none; font-weight: 700; font-size: 1.3em; box-shadow: 0 6px 20px rgba(0,0,0,0.25); transition: all 0.3s; border: 3px solid white;">
+    ✉️ weichunyu@ruc.edu.cn
+  </a>
+</div>
 
 ---
 
