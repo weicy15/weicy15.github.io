@@ -59,9 +59,9 @@ redirect_from:
   </table>
 </div>
 
-<div style="margin-bottom: 30px;">
+<div style="border: 2px solid #e0e0e0; padding: 25px; margin-bottom: 30px; background-color: #fafafa; border-radius: 3px;">
   <h3 style="margin-top: 0; color: #2c3e50; font-weight: 600; border-bottom: 2px solid #2c3e50; padding-bottom: 8px; display: inline-block;">
-    研究方向
+    研究项目
   </h3>
   
   <div style="margin-top: 25px;">
@@ -89,8 +89,8 @@ redirect_from:
   <p style="color: #2c3e50; font-size: 1.05em; margin-bottom: 20px; line-height: 1.8;">
     欢迎有意科研实习、攻读硕士、攻读博士（与陈跃国教授合作指导）的同学联系！
   </p>
-  <a href="mailto:chunyuwei@ruc.edu.cn" style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 35px; border-radius: 25px; text-decoration: none; font-weight: bold; font-size: 1.05em; box-shadow: 0 4px 15px rgba(102,126,234,0.4); transition: transform 0.3s;">
-    ✉️ chunyuwei@ruc.edu.cn
+  <a href="mailto:weichunyu@ruc.edu.cn" style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 35px; border-radius: 25px; text-decoration: none; font-weight: bold; font-size: 1.05em; box-shadow: 0 4px 15px rgba(102,126,234,0.4); transition: transform 0.3s;">
+    ✉️ weichunyu@ruc.edu.cn
   </a>
 </div>
 ---
