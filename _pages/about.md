@@ -84,7 +84,7 @@ redirect_from:
 </div>
 
 <div style="background: linear-gradient(135deg, #0066cc 0%, #0080ff 100%); padding: 40px 30px; border-radius: 8px; margin-bottom: 35px; text-align: center; box-shadow: 0 4px 20px rgba(0,102,204,0.25);">
-  <h3 style="color: white; margin: 0 0 20px 0; font-size: 2em; font-weight: 700; letter-spacing: 1px;">📢 招生招聘</h3>
+  <h3 style="color: white; margin: 0 0 20px 0; font-size: 2em; font-weight: 700; letter-spacing: 1px;">📢 加入我们</h3>
   <p style="color: white; font-size: 1.25em; margin-bottom: 30px; line-height: 1.9; font-weight: 500;">
     欢迎有意<strong style="font-size: 1.15em;">科研实习</strong>、攻读<strong style="font-size: 1.15em;">硕士</strong>、攻读<strong style="font-size: 1.15em;">博士</strong><br/>（与陈跃国教授合作指导）的同学联系！
   </p>
