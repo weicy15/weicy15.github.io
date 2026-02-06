@@ -123,7 +123,7 @@ Huaiyu Qin, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/BAED.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Balanced Anomaly-guided Ego-graph Diffusion Model for Inductive Graph Anomaly Detection
+[Balanced Anomaly-guided Ego-graph Diffusion Model for Inductive Graph Anomaly Detection](https://arxiv.org/pdf/2602.05232)
 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Siyuan He, Yu Wang, Yueguo Chen, Yunhai Wang, Bing Bai, Yidong Zhang, Yong Xie, Shunming Zhang, Fei Wang.
 
