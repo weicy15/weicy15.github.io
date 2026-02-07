@@ -135,7 +135,7 @@ Huaiyu Qin, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2026</div><img src='images/GDMSR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Graph-based Diffusion Model for Service Recommendation
+[Graph-based Diffusion Model for Service Recommendation](https://ieeexplore.ieee.org/abstract/document/11311124)
 
 Xuan Zhang, Xiang Deng, Hongxing Yuan, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Yushun Fan<sup>✉</sup>, Jia Zhang.
 
