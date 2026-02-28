@@ -83,12 +83,12 @@ redirect_from:
   </div>
 </div>
 
-<div style="background: linear-gradient(135deg, #0066cc 0%, #0080ff 100%); padding: 40px 30px; border-radius: 8px; margin-bottom: 35px; text-align: center; box-shadow: 0 4px 20px rgba(0,102,204,0.25);">
-  <h3 style="color: white; margin: 0 0 20px 0; font-size: 2em; font-weight: 700; letter-spacing: 1px;">📢 加入我们</h3>
-  <p style="color: white; font-size: 1.25em; margin-bottom: 30px; line-height: 1.9; font-weight: 500;">
-    欢迎有意<strong style="font-size: 1.15em;">科研实习</strong>、攻读<strong style="font-size: 1.15em;">硕士</strong>、攻读<strong style="font-size: 1.15em;">博士</strong><br/>（与陈跃国教授合作指导）的同学联系！
+<div style="border: 1px solid #d0d0d0; padding: 20px 25px; margin-bottom: 35px; background-color: #fafafa; border-radius: 6px;">
+  <h3 style="margin: 0 0 10px 0; color: #0066cc; font-weight: 700; font-size: 1.25em;">📢 加入我们</h3>
+  <p style="margin: 0 0 15px 0; color: #333; font-size: 1em; line-height: 1.8;">
+    欢迎有意<strong style="color: #0066cc;">科研实习</strong>、攻读<strong style="color: #0066cc;">硕士</strong>、攻读<strong style="color: #0066cc;">博士</strong>（与陈跃国教授合作指导）的同学联系！
   </p>
-  <a href="mailto:weichunyu@ruc.edu.cn" style="display: inline-block; background-color: white; color: #0066cc; padding: 18px 50px; border-radius: 35px; text-decoration: none; font-weight: 700; font-size: 1.3em; box-shadow: 0 6px 20px rgba(0,0,0,0.25); transition: all 0.3s; border: 3px solid white;">
+  <a href="mailto:weichunyu@ruc.edu.cn" style="display: inline-block; background-color: #0066cc; color: white; padding: 10px 28px; border-radius: 5px; text-decoration: none; font-weight: 600; font-size: 1em; box-shadow: 0 2px 8px rgba(0,102,204,0.2); transition: all 0.3s;">
     ✉️ weichunyu@ruc.edu.cn
   </a>
 </div>
