@@ -75,10 +75,10 @@ redirect_from:
   <div style="margin-top: 12px; padding: 15px 18px; background-color: #ffffff; border-radius: 4px; border: 1px solid #e0e0e0;">
     <h4 style="color: #0066cc; margin: 0 0 10px 0; font-weight: 600; font-size: 1.05em;">2. 拓扑感知的数据基础模型</h4>
     <ul style="line-height: 1.65; color: #333; margin: 0; padding-left: 22px; font-size: 0.95em;">
-      <li style="margin-bottom: 6px;"><strong style="color: #0066cc;">建模</strong>：图数据合成（Graph Generation）</li>
-      <li style="margin-bottom: 6px;"><strong style="color: #0066cc;">预测</strong>：图表征学习（Graph Representation Learning）</li>
+      <li style="margin-bottom: 6px;"><strong style="color: #0066cc;">建模</strong>：图数据合成（Data Generation）</li>
+      <li style="margin-bottom: 6px;"><strong style="color: #0066cc;">预测</strong>：图表征学习（Representation Learning）</li>
       <li style="margin-bottom: 6px;"><strong style="color: #0066cc;">仿真</strong>：多智能体交互（Multi-agent Collaboration）</li>
-      <li style="margin-bottom: 0;"><strong style="color: #0066cc;">计算</strong>：图基础模型（Graph Foundation Model）</li>
+      <li style="margin-bottom: 0;"><strong style="color: #0066cc;">计算</strong>：图基础模型（Foundation Model）</li>
     </ul>
   </div>
 </div>
