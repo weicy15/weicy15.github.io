@@ -66,7 +66,7 @@ redirect_from:
     </div>
   </div>
   
-  <hr style="border: none; border-top: 1px solid #e8e8e8; margin: 60px 0 40px;">
+  <hr style="border: none; border-top: 1px solid #e8e8e8; margin: 20px 0 20px;">
 
   <h3 class="section-title">
     <span class="section-title__icon">📂</span> 研究项目
