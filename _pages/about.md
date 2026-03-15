@@ -66,7 +66,9 @@ redirect_from:
     </div>
   </div>
   
-  <h3 class="section-title" style="margin-top: 80px;">
+  <hr style="border: none; border-top: 1px solid #e8e8e8; margin: 60px 0 40px;">
+
+  <h3 class="section-title">
     <span class="section-title__icon">📂</span> 研究项目
   </h3>
   
