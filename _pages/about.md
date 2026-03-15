@@ -204,7 +204,7 @@ Unicoon: Hypergraph-based Multi-Agent Simulation of Information Cocoons
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/CGADM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Conditional Diffusion Anomaly Modeling on Graphs
+[Conditional Diffusion Anomaly Modeling on Graphs](https://openreview.net/pdf?id=5Z8ckcrfq1)
 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Haozhe Lin, Yueguo Chen, Yunhai Wang.
 
