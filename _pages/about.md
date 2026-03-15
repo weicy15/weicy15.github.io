@@ -37,28 +37,28 @@ redirect_from:
   
   <div class="level-grid">
     <div class="level-card">
-      <img src="images/token-level.png" alt="Token-level" class="level-card__icon" style="width:52px;height:52px;max-width:52px;">
+      <img src="images/token-level.png" alt="Token-level" class="level-card__icon" style="width:72px;height:72px;max-width:72px;">
       <div class="level-card__body">
         <div class="level-card__label">Token-level</div>
         <div class="level-card__text">语义空间中的符号关联与知识表征</div>
       </div>
     </div>
     <div class="level-card">
-      <img src="images/entity-level.png" alt="Entity-level" class="level-card__icon" style="width:52px;height:52px;max-width:52px;">
+      <img src="images/entity-level.png" alt="Entity-level" class="level-card__icon" style="width:72px;height:72px;max-width:72px;">
       <div class="level-card__body">
         <div class="level-card__label">Entity-level</div>
         <div class="level-card__text">知识图谱中的实体关联与推理机制</div>
       </div>
     </div>
     <div class="level-card">
-      <img src="images/node-level.png" alt="Node-level" class="level-card__icon" style="width:52px;height:52px;max-width:52px;">
+      <img src="images/node-level.png" alt="Node-level" class="level-card__icon" style="width:72px;height:72px;max-width:72px;">
       <div class="level-card__body">
         <div class="level-card__label">Node-level</div>
         <div class="level-card__text">图网络中的节点交互与传播动力学</div>
       </div>
     </div>
     <div class="level-card">
-      <img src="images/agent-level.png" alt="Agent-level" class="level-card__icon" style="width:52px;height:52px;max-width:52px;">
+      <img src="images/agent-level.png" alt="Agent-level" class="level-card__icon" style="width:72px;height:72px;max-width:72px;">
       <div class="level-card__body">
         <div class="level-card__label">Agent-level</div>
         <div class="level-card__text">多智能体系统中的协作与博弈行为</div>
