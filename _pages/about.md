@@ -95,6 +95,15 @@ redirect_from:
 <div class="join-us-card">
   <h3 class="join-us-card__title">📢 加入我们</h3>
   <p class="join-us-card__text">
+    我们鼓励自由探索，致力于做<strong>有影响力的研究</strong>——既追求顶会顶刊的学术发表，也关注技术在真实产业中的价值闭环。
+  </p>
+  <ul class="join-us-card__list" style="text-align:left; margin: 8px auto; max-width: 640px; line-height: 1.9;">
+    <li><strong>算力资源</strong>：实验室配备 24 张以上 A800 GPU，可稳定支撑大模型相关的科研任务</li>
+    <li><strong>产业合作</strong>：与腾讯、阿里、蚂蚁、快手等企业的核心算法部门保持长期合作，研究课题贴近真实业务需求</li>
+    <li><strong>集群支持</strong>：可使用合作企业的大规模计算集群，支持大参数模型从预训练到后训练的全流程研究</li>
+    <li><strong>科研指导</strong>：提供从选题、实验到论文写作的系统性指导，支持学生逐步成长为独立研究者</li>
+  </ul>
+  <p class="join-us-card__text">
     欢迎有意<strong>科研实习</strong>、攻读<strong>硕士</strong>、攻读<strong>博士</strong>（与陈跃国教授合作指导）的同学联系！
   </p>
   <a href="mailto:weichunyu@ruc.edu.cn" class="btn-contact">
