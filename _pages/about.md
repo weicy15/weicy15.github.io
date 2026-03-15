@@ -129,7 +129,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/CF-RAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Counterfactual Reasoning for Retrieval-Augmented Generation
+[Counterfactual Reasoning for Retrieval-Augmented Generation](https://openreview.net/pdf?id=9U51rOnGko)
 
 Huaiyu Qin, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Yueguo Chen, Yunhai Wang
 
