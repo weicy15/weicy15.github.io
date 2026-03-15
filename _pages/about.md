@@ -17,78 +17,73 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-<div style="border-left: 5px solid #0066cc; padding: 25px; margin-bottom: 35px; background: linear-gradient(to right, #f5f8ff 0%, #ffffff 100%); border-radius: 8px; box-shadow: 0 2px 12px rgba(0,102,204,0.08);">
-  <p style="margin: 0 0 18px 0; font-size: 1.15em; color: #1a1a1a; line-height: 1.8;">
-    <strong style="font-size: 1.3em; color: #0066cc;">韦淳于</strong>，博士，硕士生导师。中国人民大学信息学院讲师，中国人民大学国家治理大数据和人工智能创新平台研究员。
+<div class="hero-intro">
+  <p class="hero-intro__main">
+    <strong class="hero-intro__name">韦淳于</strong>，博士，硕士生导师。中国人民大学信息学院讲师，中国人民大学国家治理大数据和人工智能创新平台研究员。
   </p>
-  <p style="margin: 0; color: #444; line-height: 1.8;">
+  <p class="hero-intro__sub">
     2019年于清华大学自动化系获学士学位，2024年于清华大学自动化系获博士学位。在博士期间，以第一作者发表高水平论文十三篇，研究成果在腾讯、阿里和快手等公司落地。
   </p>
 </div>
 
-<div style="border: 1px solid #d0d0d0; padding: 25px 28px; margin-bottom: 35px; background-color: #fafafa; border-radius: 6px;">
-  <h3 style="margin: 0 0 12px 0; color: #0066cc; font-weight: 700; font-size: 1.25em; border-bottom: 2px solid #0066cc; padding-bottom: 8px; display: inline-block;">
-    研究领域：关系智能 (Relational Intelligence)
+<div class="research-section">
+  <h3 class="section-title">
+    <span class="section-title__icon">🔬</span> 研究领域：关系智能 <span class="section-title__en">(Relational Intelligence)</span>
   </h3>
   
-  <p style="margin: 15px 0 18px 0; color: #333; line-height: 1.7; font-size: 1em;">
+  <p class="research-section__desc">
     关系智能是理解和建模复杂系统中多层次关系结构的科学范式，涵盖以下四个层次：
   </p>
   
-  <table style="width: 100%; border-collapse: collapse; margin-bottom: 25px;">
-    <tr style="background: linear-gradient(to right, #0066cc 0%, #0080ff 100%); color: white;">
-      <th style="padding: 10px 12px; text-align: left; border: none; width: 22%; font-weight: 600; font-size: 0.95em;">层次</th>
-      <th style="padding: 10px 12px; text-align: left; border: none; font-weight: 600; font-size: 0.95em;">研究内容</th>
-    </tr>
-    <tr style="background-color: #f5f8ff;">
-      <td style="padding: 9px 12px; border: 1px solid #e0e0e0; vertical-align: top;"><strong style="color: #0066cc; font-size: 0.95em;">Token-level</strong></td>
-      <td style="padding: 9px 12px; border: 1px solid #e0e0e0; color: #333; font-size: 0.95em;">语义空间中的符号关联与知识表征</td>
-    </tr>
-    <tr>
-      <td style="padding: 9px 12px; border: 1px solid #e0e0e0; vertical-align: top;"><strong style="color: #0066cc; font-size: 0.95em;">Entity-level</strong></td>
-      <td style="padding: 9px 12px; border: 1px solid #e0e0e0; color: #333; font-size: 0.95em;">知识图谱中的实体关联与推理机制</td>
-    </tr>
-    <tr style="background-color: #f5f8ff;">
-      <td style="padding: 9px 12px; border: 1px solid #e0e0e0; vertical-align: top;"><strong style="color: #0066cc; font-size: 0.95em;">Node-level</strong></td>
-      <td style="padding: 9px 12px; border: 1px solid #e0e0e0; color: #333; font-size: 0.95em;">图网络中的节点交互与传播动力学</td>
-    </tr>
-    <tr>
-      <td style="padding: 9px 12px; border: 1px solid #e0e0e0; vertical-align: top;"><strong style="color: #0066cc; font-size: 0.95em;">Agent-level</strong></td>
-      <td style="padding: 9px 12px; border: 1px solid #e0e0e0; color: #333; font-size: 0.95em;">多智能体系统中的协作与博弈行为</td>
-    </tr>
-  </table>
+  <div class="level-grid">
+    <div class="level-card">
+      <div class="level-card__label">Token-level</div>
+      <div class="level-card__text">语义空间中的符号关联与知识表征</div>
+    </div>
+    <div class="level-card">
+      <div class="level-card__label">Entity-level</div>
+      <div class="level-card__text">知识图谱中的实体关联与推理机制</div>
+    </div>
+    <div class="level-card">
+      <div class="level-card__label">Node-level</div>
+      <div class="level-card__text">图网络中的节点交互与传播动力学</div>
+    </div>
+    <div class="level-card">
+      <div class="level-card__label">Agent-level</div>
+      <div class="level-card__text">多智能体系统中的协作与博弈行为</div>
+    </div>
+  </div>
   
-  <h3 style="margin: 20px 0 12px 0; color: #0066cc; font-weight: 700; font-size: 1.25em; border-bottom: 2px solid #0066cc; padding-bottom: 8px; display: inline-block;">
-    研究项目
+  <h3 class="section-title" style="margin-top: 28px;">
+    <span class="section-title__icon">📂</span> 研究项目
   </h3>
   
-  <div style="margin-top: 15px; padding: 15px 18px; background-color: #ffffff; border-radius: 4px; border: 1px solid #e0e0e0;">
-    <h4 style="color: #0066cc; margin: 0 0 10px 0; font-weight: 600; font-size: 1.05em;">1. 知识增强的大模型</h4>
-    <ul style="line-height: 1.65; color: #333; margin: 0; padding-left: 22px; font-size: 0.95em;">
-      <li style="margin-bottom: 6px;"><strong style="color: #0066cc;">上下文知识</strong>：检索增强（RAG）</li>
-      <li style="margin-bottom: 6px;"><strong style="color: #0066cc;">参数知识</strong>：知识编辑（Knowledge Editing）</li>
-      <li style="margin-bottom: 0;"><strong style="color: #0066cc;">个性化</strong>：模型个性化（Personalization）</li>
+  <div class="project-card">
+    <h4 class="project-card__title">1. 知识增强的大模型</h4>
+    <ul class="project-card__list">
+      <li><strong>上下文知识</strong>：检索增强（RAG）</li>
+      <li><strong>参数知识</strong>：知识编辑（Knowledge Editing）</li>
+      <li><strong>个性化</strong>：模型个性化（Personalization）</li>
     </ul>
   </div>
   
-  <div style="margin-top: 12px; padding: 15px 18px; background-color: #ffffff; border-radius: 4px; border: 1px solid #e0e0e0;">
-    <h4 style="color: #0066cc; margin: 0 0 10px 0; font-weight: 600; font-size: 1.05em;">2. 拓扑感知的数据基础模型</h4>
-    <ul style="line-height: 1.65; color: #333; margin: 0; padding-left: 22px; font-size: 0.95em;">
-      <li style="margin-bottom: 6px;"><strong style="color: #0066cc;">建模</strong>：图数据合成（Data Generation）</li>
-      <li style="margin-bottom: 6px;"><strong style="color: #0066cc;">预测</strong>：图表征学习（Representation Learning）</li>
-      <li style="margin-bottom: 6px;"><strong style="color: #0066cc;">仿真</strong>：多智能体交互（Multi-agent Collaboration）</li>
-      <li style="margin-bottom: 0;"><strong style="color: #0066cc;">计算</strong>：图基础模型（Foundation Model）</li>
+  <div class="project-card">
+    <h4 class="project-card__title">2. 拓扑感知的数据基础模型</h4>
+    <ul class="project-card__list">
+      <li><strong>建模</strong>：图数据合成（Data Generation）</li>
+      <li><strong>预测</strong>：图表征学习（Representation Learning）</li>
+      <li><strong>仿真</strong>：多智能体交互（Multi-agent Collaboration）</li>
+      <li><strong>计算</strong>：图基础模型（Foundation Model）</li>
     </ul>
   </div>
 </div>
 
-<div style="border: 1px solid #d0d0d0; padding: 20px 25px; margin-bottom: 35px; background-color: #fafafa; border-radius: 6px;">
-  <h3 style="margin: 0 0 10px 0; color: #0066cc; font-weight: 700; font-size: 1.25em;">📢 加入我们</h3>
-  <p style="margin: 0 0 15px 0; color: #333; font-size: 1em; line-height: 1.8;">
-    欢迎有意<strong style="color: #0066cc;">科研实习</strong>、攻读<strong style="color: #0066cc;">硕士</strong>、攻读<strong style="color: #0066cc;">博士</strong>（与陈跃国教授合作指导）的同学联系！
+<div class="join-us-card">
+  <h3 class="join-us-card__title">📢 加入我们</h3>
+  <p class="join-us-card__text">
+    欢迎有意<strong>科研实习</strong>、攻读<strong>硕士</strong>、攻读<strong>博士</strong>（与陈跃国教授合作指导）的同学联系！
   </p>
-  <a href="mailto:weichunyu@ruc.edu.cn" style="display: inline-block; background-color: #0066cc; color: white; padding: 10px 28px; border-radius: 5px; text-decoration: none; font-weight: 600; font-size: 1em; box-shadow: 0 2px 8px rgba(0,102,204,0.2); transition: all 0.3s;">
+  <a href="mailto:weichunyu@ruc.edu.cn" class="btn-contact">
     ✉️ weichunyu@ruc.edu.cn
   </a>
 </div>
@@ -349,16 +344,42 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 
 
 # 📖 Educations
-- *2019.06 - 2024.06*, 清华大学，信息学院自动化系，工学博士 
-- *2015.09 - 2019.06*, 清华大学，信息学院自动化系，工学学士 
-    - *2016.08 - 2019.06*, 清华大学，经济学院经济系，经济学学士（第二学位）
-    - *2017.08 - 2018.01*, 美国东北大学, 计算机学院, 计算机科学与技术（交换生）
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-item__date">2019.06 - 2024.06</div>
+    <div class="timeline-item__content">
+      <strong>清华大学</strong>，信息学院自动化系，工学博士
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-item__date">2015.09 - 2019.06</div>
+    <div class="timeline-item__content">
+      <strong>清华大学</strong>，信息学院自动化系，工学学士
+      <div class="timeline-item__sub">2016.08 - 2019.06，清华大学，经济学院经济系，经济学学士（第二学位）</div>
+      <div class="timeline-item__sub">2017.08 - 2018.01，美国东北大学，计算机学院，计算机科学与技术（交换生）</div>
+    </div>
+  </div>
+</div>
 
 # 💻 Internships
-- *2023.05 - 2023.11*, 北京快手科技有限公司, 中国
-- *2022.07 - 2023.05*, 启元实验室, 中国
-- *2021.05 - 2022.06*, 阿里巴巴（北京）有限公司, 中国
-- *2020.11 - 2021.03*, 腾讯科技（北京）有限公司, 中国
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-item__date">2023.05 - 2023.11</div>
+    <div class="timeline-item__content">北京快手科技有限公司, 中国</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-item__date">2022.07 - 2023.05</div>
+    <div class="timeline-item__content">启元实验室, 中国</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-item__date">2021.05 - 2022.06</div>
+    <div class="timeline-item__content">阿里巴巴（北京）有限公司, 中国</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-item__date">2020.11 - 2021.03</div>
+    <div class="timeline-item__content">腾讯科技（北京）有限公司, 中国</div>
+  </div>
+</div>
 
 # 🏅 Services
 - Reviewer of T-PAMI, TOIS, TNNLS

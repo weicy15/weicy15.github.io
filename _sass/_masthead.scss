@@ -5,18 +5,23 @@
 .masthead {
   position: sticky;
   top: 0;
-  background-color: white;
-  border-bottom: 1px solid $border-color;
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
+  background-color: rgba(255, 255, 255, 0.92);
+  backdrop-filter: saturate(180%) blur(12px);
+  -webkit-backdrop-filter: saturate(180%) blur(12px);
+  border-bottom: 1px solid rgba(229, 231, 235, 0.6);
+  -webkit-animation: slideDown 0.4s both;
+          animation: slideDown 0.4s both;
   z-index: 20;
+  transition: box-shadow 0.3s ease;
+
+  &:hover {
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.06);
+  }
 
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: .5em;
+    padding: .6em 1em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -29,6 +34,8 @@
 
     a {
       text-decoration: none;
+      font-weight: 500;
+      transition: color 0.2s ease;
     }
   }
 }
@@ -54,6 +61,27 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+
+  a {
+    position: relative;
+    padding: 4px 0;
+    
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 0;
+      height: 2px;
+      background: linear-gradient(90deg, #2563eb, #1e3a5f);
+      transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      border-radius: 1px;
+    }
+
+    &:hover::after {
+      width: 100%;
+    }
+  }
 
   &--lg {
     padding-right: 2em;
