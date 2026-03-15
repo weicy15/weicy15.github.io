@@ -122,6 +122,7 @@ redirect_from:
 - *2024.06*: 取得清华大学工学博士学位🎉
 
 
+<span class='anchor' id='-publications'></span>
 # 📝 Publications (Selected)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/CF-RAG.png' alt="sym" width="100%"></div></div>
