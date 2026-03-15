@@ -375,6 +375,16 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
   </div>
 </div>
 
+# 🏆 Grants
+<div class="project-card">
+  <ul class="project-card__list">
+    <li><strong>国家重点研发计划项目子课题</strong>，《面向就业结构预测的数据合成》，<strong>主持</strong>，2026年</li>
+    <li><strong>国家自然科学基金青年科学基金项目（C类）</strong>，《面向人岗精准匹配的动态时空感知图学习方法研究》，<strong>主持</strong>，2025年</li>
+    <li><strong>CAAI-蚂蚁科研基金（AGI专项）</strong>，《面向Web的推理时交互的多模态UI智能体关键技术研究》，<strong>主持</strong>，2025年</li>
+    <li><strong>SMP-清智大模型基金</strong>，《基于图结构约束的多智能体社会知识智能构建与涌现机制研究》，<strong>主持</strong>，2025年</li>
+  </ul>
+</div>
+
 # 💻 Internships
 <div class="timeline">
   <div class="timeline-item">
@@ -395,17 +405,6 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
   </div>
 </div>
 
-# � Grants
-
-<div class="project-card">
-  <ul class="project-card__list">
-    <li><strong>国家重点研发计划项目子课题</strong>，《面向就业结构预测的数据合成》，<strong>主持</strong>，2026年</li>
-    <li><strong>国家自然科学基金青年科学基金项目（C类）</strong>，《面向人岗精准匹配的动态时空感知图学习方法研究》，<strong>主持</strong>，2025年</li>
-    <li><strong>CAAI-蚂蚁科研基金（AGI专项）</strong>，《面向Web的推理时交互的多模态UI智能体关键技术研究》，<strong>主持</strong>，2025年</li>
-    <li><strong>SMP-清智大模型基金</strong>，《基于图结构约束的多智能体社会知识智能构建与涌现机制研究》，<strong>主持</strong>，2025年</li>
-  </ul>
-</div>
-
-# �🏅 Services
+# 🏅 Services
 - Reviewer of T-PAMI, TOIS, TNNLS
 - PC Member of WWW 2025
