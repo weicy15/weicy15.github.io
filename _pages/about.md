@@ -54,7 +54,7 @@ redirect_from:
     </div>
   </div>
   
-  <h3 class="section-title" style="margin-top: 28px;">
+  <h3 class="section-title" style="margin-top: 48px;">
     <span class="section-title__icon">📂</span> 研究项目
   </h3>
   
