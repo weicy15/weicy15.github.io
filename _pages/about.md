@@ -107,9 +107,11 @@ redirect_from:
   <p class="join-us-card__cta">
     🎓 欢迎有意<strong>科研实习</strong>、攻读<strong>硕士</strong>、攻读<strong>博士</strong>（与陈跃国教授合作指导）的同学联系！
   </p>
-  <a href="mailto:weichunyu@ruc.edu.cn" class="btn-contact">
-    ✉️ weichunyu@ruc.edu.cn
-  </a>
+  <div style="text-align: center;">
+    <a href="mailto:weichunyu@ruc.edu.cn" class="btn-contact">
+      ✉️ weichunyu@ruc.edu.cn
+    </a>
+  </div>
 </div>
 
 ---
