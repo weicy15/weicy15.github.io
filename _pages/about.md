@@ -103,6 +103,7 @@ redirect_from:
     <li><strong>集群支持</strong>：可使用合作企业的大规模计算集群，支持大参数模型从预训练到后训练的全流程研究</li>
     <li><strong>科研指导</strong>：提供从选题、实验到论文写作的系统性指导，支持学生逐步成长为独立研究者</li>
   </ul>
+  <hr style="border: none; border-top: 1px solid #e8e8e8; margin: 10px 0 10px;">
   <p class="join-us-card__cta">
     🎓 欢迎有意<strong>科研实习</strong>、攻读<strong>硕士</strong>、攻读<strong>博士</strong>（与陈跃国教授合作指导）的同学联系！
   </p>
