@@ -73,7 +73,7 @@ redirect_from:
   </h3>
   
   <div class="project-card">
-    <h4 class="project-card__title">1. 知识增强的大语言模型</h4>
+    <h4 class="project-card__title">1. 知识增强的语言模型</h4>
     <ul class="project-card__list">
       <li><strong>上下文知识</strong>：检索增强（RAG）</li>
       <li><strong>参数知识</strong>：知识编辑（Knowledge Editing）</li>
@@ -82,7 +82,7 @@ redirect_from:
   </div>
   
   <div class="project-card">
-    <h4 class="project-card__title">2. 拓扑感知的数据基础模型</h4>
+    <h4 class="project-card__title">2. 拓扑感知的数据模型</h4>
     <ul class="project-card__list">
       <li><strong>建模</strong>：图数据合成（Data Generation）</li>
       <li><strong>预测</strong>：图表征学习（Representation Learning）</li>
