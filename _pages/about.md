@@ -98,7 +98,7 @@ redirect_from:
     我们鼓励自由探索，致力于做<strong>有影响力的研究</strong>——既追求顶会顶刊的学术发表，也关注技术在真实产业中的价值闭环。
   </p>
   <ul class="join-us-card__list" style="text-align:left; margin: 8px 0; line-height: 1.9;">
-    <li><strong>算力资源</strong>：实验室配备 24 张以上 A800 GPU，可稳定支撑大模型相关的科研任务</li>
+    <li><strong>算力资源</strong>：实验室配备 30 张以上 A800 GPU，可稳定支撑大模型相关的科研任务</li>
     <li><strong>产业合作</strong>：与腾讯、阿里、蚂蚁、快手等企业的核心算法部门保持长期合作，研究课题贴近真实业务需求</li>
     <li><strong>集群支持</strong>：可使用合作企业的大规模计算集群，支持大参数模型从预训练到后训练的全流程研究</li>
     <li><strong>科研指导</strong>：提供从选题、实验到论文写作的系统性指导，支持学生逐步成长为独立研究者</li>
@@ -127,6 +127,19 @@ redirect_from:
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications (Selected)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/DUDE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Don't Click That: Teaching Web Agents to Resist Deceptive Interfaces
+
+Yilin Zhang, Yingkai Hua, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Xin Wang, Yueguo Chen.
+
+*Annual Meeting of the Association for Computational Linguistics (ACL), **Main**，2026.* <span style="color:blue">(CCF-A)</span>
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/CF-RAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
