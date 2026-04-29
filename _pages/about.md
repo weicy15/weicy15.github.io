@@ -75,6 +75,7 @@ redirect_from:
   <div class="project-card">
     <h4 class="project-card__title">1. 知识增强的语言模型</h4>
     <ul class="project-card__list">
+      <li><strong>记忆</strong>：智能体记忆（Agent Memory）</li>
       <li><strong>上下文知识</strong>：检索增强（RAG）</li>
       <li><strong>参数知识</strong>：知识编辑（Knowledge Editing）</li>
       <li><strong>个性化</strong>：模型个性化（Personalization）</li>
