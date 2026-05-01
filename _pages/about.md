@@ -130,6 +130,30 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 # 📝 Publications (Selected)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/RAMBA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Ramba: Selective State-Space Models for Relational Deep Learning
+
+Yiming Liu, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Haozhe Lin, Fengjun Xiao, Junqi Zhang, Yunhai Wang, Yueguo Chen.
+
+*International Conference on Machine Learning (ICML), 2026.* <span style="color:blue">(CCF-A)</span>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/MeSpher.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Geodesic Expert Routing for Unbiased Knowledge Distillation in Recommendation
+
+Xuan Zhang, Rongchuan Wei, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Hongxing Yuan, Yushun Fan<sup>✉</sup>.
+
+*International Joint Conference on Artificial Intelligence (IJCAI), 2026.* <span style="color:blue">(CAAI)</span>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/DUDE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
