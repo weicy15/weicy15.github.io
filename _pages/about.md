@@ -149,7 +149,7 @@ Geodesic Expert Routing for Unbiased Knowledge Distillation in Recommendation
 
 Xuan Zhang, Rongchuan Wei, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Hongxing Yuan, Yushun Fan<sup>✉</sup>.
 
-*International Joint Conference on Artificial Intelligence (IJCAI), 2026.* <span style="color:blue">(CAAI)</span>
+*International Joint Conference on Artificial Intelligence (IJCAI), 2026.* <span style="color:blue">(CAAI-A)</span>
 
 </div>
 </div>
