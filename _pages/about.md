@@ -106,7 +106,7 @@ redirect_from:
   </ul>
   <hr style="border: none; border-top: 1px solid #e8e8e8; margin: 10px 0 10px;">
   <p class="join-us-card__cta">
-    🎓 欢迎有意<strong>科研实习</strong>、攻读<strong>硕士</strong>、攻读<strong>博士</strong>（与陈跃国教授合作指导）的同学联系！
+    🎓 欢迎有意<strong>科研实习</strong>、攻读<strong>硕士</strong>、攻读<strong>博士</strong>（与陈跃国教授合作指导/中关村学院联培）的同学联系！
   </p>
   <div style="text-align: center;">
     <a href="mailto:weichunyu@ruc.edu.cn" class="btn-contact">
