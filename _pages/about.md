@@ -85,10 +85,10 @@ redirect_from:
   <div class="project-card">
     <h4 class="project-card__title">2. 拓扑感知的数据模型</h4>
     <ul class="project-card__list">
-      <li><strong>建模</strong>：图数据合成（Data Generation）</li>
+      <li><strong>建模</strong>：拓扑数据合成（Data Generation）</li>
       <li><strong>预测</strong>：图表征学习（Representation Learning）</li>
       <li><strong>仿真</strong>：多智能体交互（Multi-agent Collaboration）</li>
-      <li><strong>计算</strong>：图基础模型（Foundation Model）</li>
+      <li><strong>计算</strong>：关系基础模型（Foundation Model）</li>
     </ul>
   </div>
 </div>
