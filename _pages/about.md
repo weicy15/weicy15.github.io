@@ -438,7 +438,7 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
   </ul>
 </div>
 
-# 💻 Internships
+# 💻 Research Experiences
 <div class="timeline">
   <div class="timeline-item">
     <div class="timeline-item__date">2023.05 - 2023.11</div>
