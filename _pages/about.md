@@ -157,7 +157,7 @@ Xuan Zhang, Rongchuan Wei, <span style="font-size: 1.2em;">**Chunyu Wei**</span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/DUDE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Don't Click That: Teaching Web Agents to Resist Deceptive Interfaces
+[Don't Click That: Teaching Web Agents to Resist Deceptive Interfaces](https://arxiv.org/pdf/2605.09497v1)
 
 Yilin Zhang, Yingkai Hua, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Xin Wang, Yueguo Chen.
 
