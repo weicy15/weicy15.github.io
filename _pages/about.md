@@ -130,6 +130,18 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 # 📝 Publications (Selected)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/AutoGFM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Test-Time Search for Automated GFM Fine-Tuning
+
+Wenji Hu, Xianan Wang, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Senhao Liu, Kuien Liu, Yunhai Wang, Yueguo Chen.
+
+*SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.* <span style="color:blue">(CCF-A)</span>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/RAMBA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
