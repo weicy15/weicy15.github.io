@@ -140,6 +140,8 @@ Wenji Hu, Xianan Wang, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup
 
 *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.* <span style="color:blue">(CCF-A)</span>
 
+<div class="paper-abstract">Graph Foundation Models (GFMs) have emerged as a powerful paradigm for learning transferable graph representations, yet adapting them to downstream tasks requires navigating an exponentially large decision space, traditionally demanding heavy expert effort. We propose GFMTuner, a framework that automates GFM fine-tuning by combining Large Language Model (LLM) agents with Monte Carlo Tree Search. GFMTuner accepts natural language task descriptions and generates effective fine-tuning strategies through test-time search. We introduce the Graph-Instructed Actor, which equips the LLM with graph analysis tools to ground action generation in structural insights, and Gradient Consistency, a self-supervised reward that measures gradient alignment across perturbed executions for efficient strategy evaluation. Experiments across diverse graph domains demonstrate that GFMTuner matches or exceeds human expert designs while reducing effort from weeks to a single natural language query.</div>
+
 </div>
 </div>
 
@@ -151,6 +153,8 @@ Wenji Hu, Xianan Wang, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup
 Yiming Liu, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Haozhe Lin, Fengjun Xiao, Junqi Zhang, Yunhai Wang, Yueguo Chen.
 
 *International Conference on Machine Learning (ICML), 2026.* <span style="color:blue">(CCF-A)</span>
+
+<div class="paper-abstract">Relational Deep Learning aims to learn directly on multi-table databases, yet current methods face a fundamental tension: Transformers' quadratic complexity prohibits the large contexts that relational data demands, while GNNs sacrifice global context for efficiency. We introduce Ramba, the first selective state-space model for relational databases. Our approach features two key innovations: (1) Topology-Aware Linearization, which processes cells via global columnar serialization in linear complexity while recovering relational structure through sparse entity and foreign-key attention masks; and (2) Schema Dynamic Gating, which modulates SSM state transitions based on semantic alignment between the currently scanned attribute and the prediction target, enabling cross-table relevance filtering without relying on value distributions. Together, these mechanisms allow Ramba to ingest vast relational contexts while selectively retaining semantically relevant information. Experiments demonstrate state-of-the-art performance with linear scalability across diverse relational benchmarks.</div>
 
 </div>
 </div>
@@ -164,6 +168,8 @@ Xuan Zhang, Rongchuan Wei, <span style="font-size: 1.2em;">**Chunyu Wei**</span>
 
 *International Joint Conference on Artificial Intelligence (IJCAI), 2026.* <span style="color:blue">(CAAI-A)</span>
 
+<div class="paper-abstract">Knowledge distillation has become a prevalent technique for deploying efficient recommender systems, enabling lightweight student models to approximate the performance of larger teachers. However, we identify a critical issue: distillation systematically amplifies popularity bias, as student models inherit and intensify the popularity-driven shortcuts encoded in teachers trained on interaction data dominated by popular items. To address this limitation, we propose GUIDE (Geodesic aware Unbiased Instructive Distillation with Experts), a collaborative distillation framework that incorporates domain-specific debiasing experts alongside the global teacher. GUIDE tackles two key challenges in this paradigm. First, for expert routing, we introduce Spherical Expert Alignment, which conducts expert-student matching on the spherical manifold with geodesic distance optimization, eliminating magnitude-induced bias and ensuring stable gradient flow. Second, for context fusion, a Meta-Debiasing Gate is designed to dynamically arbitrate teacher-expert influence using real-time context via end-to-end amortized meta-learning. Extensive experiments on multiple real-world datasets demonstrate that GUIDE significantly mitigates popularity bias while preserving recommendation accuracy, with state-of-the-art trade-offs among efficiency, accuracy, and fairness.</div>
+
 </div>
 </div>
 
@@ -175,6 +181,8 @@ Xuan Zhang, Rongchuan Wei, <span style="font-size: 1.2em;">**Chunyu Wei**</span>
 Yilin Zhang, Yingkai Hua, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Xin Wang, Yueguo Chen.
 
 *Annual Meeting of the Association for Computational Linguistics (ACL), **Main**，2026.* <span style="color:blue">(CCF-A)</span>
+
+<div class="paper-abstract">Vision-language model (VLM) based web agents demonstrate impressive autonomous GUI interaction but remain vulnerable to deceptive interface elements. Existing approaches either detect deception without task integration or document attacks without proposing defenses. We formalize deception-aware web agent defense and propose DUDE (Deceptive UI Detector &amp; Evaluator), a two-stage framework combining hybrid-reward learning with asymmetric penalties and experience summarization to distill failure patterns into transferable guidance. We introduce RUC (Real UI Clickboxes), a benchmark of 1,407 scenarios spanning four domains and deception categories. Experiments show DUDE reduces deception susceptibility by 53.8% while maintaining task performance, establishing an effective foundation for robust web agent deployment.</div>
 
 </div>
 </div>
@@ -188,6 +196,8 @@ Yilin Zhang, Yingkai Hua, <span style="font-size: 1.2em;">**Chunyu Wei**</span><
 Huaiyu Qin, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Yueguo Chen, Yunhai Wang
 
 *The International Conference on Learning Representations (ICLR), 2026.* <span style="color:blue">(CCF-A)</span>
+
+<div class="paper-abstract">While Retrieval-Augmented Generation (RAG) has advanced knowledge-intensive tasks, we identify a fundamental vulnerability: the Correlation Trap. Existing systems cannot distinguish causally decisive evidence from overwhelmingly correlated yet misleading information, leading to systematic failures. We introduce Counterfactual RAG (CF-RAG), a new framework that operationalizes causal reasoning to overcome this limitation. CF-RAG systematically generates and evaluates counterfactual queries to identify causally relevant distinctions, and employs a parallel arbitration mechanism to reconcile conflicting evidence without interference. On challenging benchmarks, CF-RAG substantially improves robustness against the Correlation Trap, achieving state-of-the-art performance while maintaining comparable efficiency to standard RAG models.</div>
 
 </div>
 </div>
@@ -203,6 +213,8 @@ Huaiyu Qin, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>,
 
 *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.* <span style="color:blue">(CCF-A)</span>
 
+<div class="paper-abstract">Graph anomaly detection (GAD) is crucial in applications like fraud detection and cybersecurity. Despite recent advancements using graph neural networks (GNNs), two major challenges persist. At the model level, most methods adopt a transductive learning paradigm, which assumes static graph structures, making them unsuitable for dynamic, evolving networks. At the data level, the extreme class imbalance, where anomalous nodes are rare, leads to biased models that fail to generalize to unseen anomalies. These challenges are interdependent: static transductive frameworks limit effective data augmentation, while imbalance exacerbates model distortion in inductive learning settings. To address these challenges, we propose a novel data-centric framework that integrates dynamic graph modeling with balanced anomaly synthesis. Our framework features: (1) a discrete ego-graph diffusion model, which captures the local topology of anomalies to generate ego-graphs aligned with anomalous structural distribution, and (2) a curriculum anomaly augmentation mechanism, which dynamically adjusts synthetic data generation during training, focusing on underrepresented anomaly patterns to improve detection and generalization. Experiments on five datasets demonstrate the effectiveness of our framework.</div>
+
 </div>
 </div>
 
@@ -214,6 +226,8 @@ Huaiyu Qin, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>,
 Xuan Zhang, Xiang Deng, Hongxing Yuan, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Yushun Fan<sup>✉</sup>, Jia Zhang.
 
 *IEEE Transactions on Services Computing (TSC)* <span style="color:blue">(CCF-A)</span>
+
+<div class="paper-abstract">With the widespread adoption of cloud-based services and Service-Oriented Computing, efficient service recommendation has become pivotal for optimizing service discovery and composition in large-scale ecosystems. While recent diffusion-based recommendation methods have achieved impressive results, existing approaches predominantly treat user-service interactions as isolated events, overlooking the potential of higher-order collaborative signals. To address this limitation, we propose a Graph-based Diffusion Model for Service Recommendation (GDMSR). We introduce a multi-level noise corruption mechanism that integrates both continuous and discrete noise to address noise heterogeneity, and a user-active guided diffusion process that selectively focuses on high-value edges and active users to mitigate relation explosion. Extensive experiments on six real-world service datasets demonstrate that GDMSR consistently outperforms state-of-the-art methods, highlighting its effectiveness in capturing higher-order collaborative signals and improving service recommendation performance.</div>
 
 </div>
 </div>
@@ -227,6 +241,8 @@ Xuan Zhang, Xiang Deng, Hongxing Yuan, <span style="font-size: 1.2em;">**Chunyu 
 
 *AAAI Conference on Artificial Intelligence (AAAI), 2026.* <span style="color:blue">(CCF-A)</span>
 
+<div class="paper-abstract">Retrieval-Augmented Generation (RAG) has significantly enhanced Large Language Models' ability to access external knowledge, yet current graph-based RAG approaches face two critical limitations in managing hierarchical information: they impose rigid layer-specific compression quotas that damage local graph structures, and they prioritize topological structure while neglecting semantic content. We introduce T-Retriever, a novel framework that reformulates attributed graph retrieval as tree-based retrieval using a semantic and structure-guided encoding tree. Our approach features two key innovations: (1) Adaptive Compression Encoding, which replaces artificial compression quotas with a global optimization strategy that preserves the graph's natural hierarchical organization, and (2) Semantic-Structural Entropy (S²-Entropy), which jointly optimizes for both structural cohesion and semantic consistency when creating hierarchical partitions. Experiments across diverse graph reasoning benchmarks demonstrate that T-Retriever significantly outperforms state-of-the-art RAG methods, providing more coherent and contextually relevant responses to complex queries.</div>
+
 </div>
 </div>
 
@@ -238,6 +254,8 @@ Xuan Zhang, Xiang Deng, Hongxing Yuan, <span style="font-size: 1.2em;">**Chunyu 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Yongsiqi Tu, Yunhai Wang.
 
 *THE ACM Web Conference (WWW), 2026.* <span style="color:blue">(CCF-A)</span>
+
+<div class="paper-abstract">Information cocoons pose significant challenges to democratic discourse and social cohesion. While extensive research has examined how social networks and recommender systems independently contribute to this phenomenon, their coevolving dynamics remain unexplored. We present Unicoon, the first unified computational framework that simultaneously models both social network propagation and algorithmic content delivery using LLM-based multi-agent simulation. Our key innovation lies in a hypergraph formulation where agents constitute nodes, social relationships form edges, and recommender-delivered content creates dynamic hyperedges, elegantly capturing heterogeneous information diffusion patterns within a single mathematical structure. Extensive experiments on synthetic and real-world networks reveal that the synergistic interplay of social and algorithmic mechanisms creates qualitatively distinct polarization patterns, with a critical finding that larger macro-structures paradoxically accelerate micro-level cohort polarization.</div>
 
 </div>
 </div>
@@ -252,6 +270,8 @@ Xuan Zhang, Xiang Deng, Hongxing Yuan, <span style="font-size: 1.2em;">**Chunyu 
 
 *Conference on Neural Information Processing Systems (NeurIPS), 2025.* <span style="color:blue">(CCF-A)</span>
 
+<div class="paper-abstract">Large Language Models (LLMs) face significant limitations when applied to large-scale graphs, struggling with context constraints and inflexible reasoning. We present GraphChain, a framework that enables LLMs to analyze complex graphs through dynamic sequences of specialized tools, mimicking human exploratory intelligence. Our approach introduces two key innovations: (1) Progressive Graph Distillation, a reinforcement learning mechanism that generates optimized tool sequences balancing task relevance with information compression, and (2) Structure-aware Test-Time Adaptation, which efficiently tailors tool selection strategies to diverse graph topologies using spectral properties and lightweight adapters without costly retraining. Experiments show GraphChain significantly outperforms prior methods, enabling scalable and adaptive LLM-driven graph analysis.</div>
+
 </div>
 </div>
 
@@ -263,6 +283,8 @@ Xuan Zhang, Xiang Deng, Hongxing Yuan, <span style="font-size: 1.2em;">**Chunyu 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Haozhe Lin, Yueguo Chen, Yunhai Wang.
 
 *Conference on Neural Information Processing Systems (NeurIPS), 2025.* <span style="color:blue">(CCF-A)</span>
+
+<div class="paper-abstract">Graph anomaly detection (GAD) has become a critical research area, with successful applications in financial fraud and telecommunications. Traditional Graph Neural Networks (GNNs) face significant challenges: at the topology level, they suffer from over-smoothing that averages out anomalous signals; at the feature level, discriminative models struggle when fraudulent nodes obfuscate their features to evade detection. We propose a Conditional Graph Anomaly Diffusion Model (CGADM) that addresses these issues through the iterative refinement and denoising reconstruction properties of diffusion models. Our approach incorporates a prior-guided diffusion process that injects a pre-trained conditional anomaly estimator into both forward and reverse diffusion chains, enabling more accurate anomaly detection. For computational efficiency on large-scale graphs, we introduce a prior confidence-aware mechanism that adaptively determines the number of reverse denoising steps based on prior confidence. Experimental results demonstrate that CGADM achieves state-of-the-art performance while maintaining significant computational advantages for large-scale graph applications.</div>
 
 </div>
 </div>
@@ -277,6 +299,8 @@ Xuan Zhang, Xiang Deng, Hongxing Yuan, <span style="font-size: 1.2em;">**Chunyu 
 
 *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.* <span style="color:blue">(CCF-A)</span>
 
+<div class="paper-abstract">Graph anomaly detection faces significant challenges due to the scarcity of reliable anomaly-labeled datasets, driving the development of unsupervised methods. Graph autoencoders (GAEs) have emerged as a dominant approach by reconstructing graph structures and node features while deriving anomaly scores from reconstruction errors. However, relying solely on reconstruction error for anomaly detection has limitations, as it increases sensitivity to noise and overfitting. To address these issues, we propose Graph Evidential Learning (GEL), a probabilistic framework that redefines the reconstruction process through evidential learning. By modeling node features and graph topology using evidential distributions, GEL quantifies two types of uncertainty: graph uncertainty and reconstruction uncertainty, incorporating them into the anomaly scoring mechanism. Extensive experiments demonstrate that GEL achieves state-of-the-art performance while maintaining high robustness against noise and structural perturbations.</div>
+
 </div>
 </div>
 
@@ -289,6 +313,8 @@ Xuan Zhang, Xiang Deng, Hongxing Yuan, <span style="font-size: 1.2em;">**Chunyu 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Yushun Fan, Zhixuan Jia, Jia Zhang.
 
 *IEEE Transactions on Services Computing (TSC)* <span style="color:blue">(CCF-A)</span>
+
+<div class="paper-abstract">As the adoption of Service-Oriented Computing continues to grow, the number of web services has increased significantly, making service recommendation an essential tool to assist users in selecting suitable services. However, a single service cannot satisfy the complex requirements of users, which has led to the emergence of Mashup, combining services as reusable components to create value-added service compositions. On service platforms, there are many heterogeneous entities and complex relationships among them. We divide these interactions into three different views: Mashup-Invocation view, Service-Consumption view, and Mashup-Composition view. As user preferences and characteristics of services and mashups are distributed across different views, their cooperation is crucial for accurate mashup recommendation. Therefore, we propose Cross-view Graph Alignment (CGA), a framework that captures the collaborative associations dispersed across different views and enhances the representation learning of users and mashups. This is the first study to jointly tackle structure- and representation-level collaboration on the service platforms for better mashup recommendation. Experiments on two real-world service datasets show that CGA outperforms state-of-the-art methods.</div>
 
 </div>
 </div>
@@ -303,6 +329,8 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 
 *Conference on Computer Vision and Pattern Recognition (CVPR), 2024.* <span style="color:blue">(CCF-A)</span>
 
+<div class="paper-abstract">Pedestrian trajectory prediction is a well-established task with significant recent advancements. However, existing datasets are unable to fulfill the demand for studying minute-level long-term trajectory prediction, mainly due to the lack of high-resolution trajectory observation in the wide field of view (FoV). To bridge this gap, we introduce a novel dataset named GigaTraj, featuring videos capturing a wide FoV with ~4×10⁴ m² and high-resolution imagery at the gigapixel level. Furthermore, GigaTraj includes comprehensive annotations such as bounding boxes, identity associations, world coordinates, group/interaction relationships, and scene semantics. Leveraging these multimodal annotations, we evaluate and validate the state-of-the-art approaches for minute-level long-term trajectory prediction in large-scale scenes. Extensive experiments and analyses have revealed that long-term prediction for pedestrian trajectories presents numerous challenges, indicating a vital new direction for trajectory research.</div>
+
 </div>
 </div>
 
@@ -314,6 +342,8 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Jian Liang, Di Liu, Zehui Dai, Mang Li, Fei Wang.
 
 *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.* <span style="color:blue">(CCF-A)</span>
+
+<div class="paper-abstract">Highly skewed long-tail item distribution commonly hurts model performance on tail items in recommendation systems, especially for graph-based recommendation models. We propose a novel idea to learn relations among items as an auxiliary graph to enhance graph-based representation learning and make recommendations collectively in a coupled framework. This raises two challenges: (1) the long-tail downstream information may also bias the auxiliary graph learning, and (2) the learned auxiliary graph may cause negative transfer to the original user-item bipartite graph. We innovatively propose a novel Meta Graph Learning framework for long-tail recommendation (MGL) for solving both challenges. The meta-learning strategy is introduced to the learning of an edge generator, which is first tuned to reconstruct a debiased item co-occurrence matrix, and then virtually evaluated on generating item relations for recommendation. Moreover, we propose a popularity-aware contrastive learning strategy to prevent negative transfer by aligning confident head item representations with those of the learned auxiliary graph. Experiments on public datasets demonstrate that our proposed model significantly outperforms strong baselines for tail items without compromising the overall performance.</div>
 
 </div>
 </div>
@@ -327,6 +357,8 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 
 *International Conference on Machine Learning (ICML), 2023.* <span style="color:blue">(CCF-A)</span>
 
+<div class="paper-abstract">Graph augmentation plays a crucial role in achieving good generalization for contrastive graph self-supervised learning. However, mainstream Graph Contrastive Learning (GCL) often favors random graph augmentations, by relying on random node dropout or edge perturbation on graphs. Random augmentations may inevitably lead to semantic information corruption during training, and force the network to mistakenly focus on semantically irrelevant environmental background structures. To address these limitations and to improve generalization, we propose a novel self-supervised learning framework for GCL, which can adaptively screen the semantic-related substructure in graphs by capitalizing on the proposed gradient-based Graph Contrastive Saliency (GCS). The goal is to identify the most semantically discriminative structures of a graph via contrastive learning, such that we can generate semantically meaningful augmentations by leveraging saliency. Empirical evidence on 16 benchmark datasets demonstrates the exclusive merits of the GCS-based framework. We also provide rigorous theoretical justification for GCS's robustness properties.</div>
+
 </div>
 </div>
 
@@ -338,6 +370,8 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Yushun Fan, Jia Zhang, Zhixuan Jia, Ruyu Yan. 
 
 *IEEE Transactions on Network and Service Management (TSNM).* 
+
+<div class="paper-abstract">Driven by Service-Oriented Computing, time-aware service recommendation aims to support personalized mashup development, adapting to the rapid shifts of users' dynamic preferences. We propose a novel idea to learn the graph structure among historical mashups and make time-aware service recommendation for dynamic mashup creation collectively in a coupled framework. To solve both scalability and accuracy challenges simultaneously, we introduce the Dynamic Relation Graph Learning (DRGL) framework. For scalability, our framework has a coarse-to-fine recalling strategy to learn the graph structure among mashups, enabling the exploration of potential links among all historical mashups while maintaining a tractable amount of computation. For accuracy, we leverage recent advances in self-attention mechanisms and propose a transformer-based mashup encoder that considers long-range dependencies for more accurate mashup representations. Extensive experiments show that DRGL consistently outperforms state-of-the-art methods in terms of prediction accuracy for mashup creation.</div>
 
 </div>
 </div>
@@ -353,6 +387,8 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 
 *Conference on Neural Information Processing Systems (NeurIPS), 2022.* <span style="color:blue">(CCF-A)</span>
 
+<div class="paper-abstract">Graph convolution networks (GCNs) for recommendations have emerged as an important research topic due to their ability to exploit higher-order neighbors. Despite their success, most of them suffer from popularity bias brought by a small number of active users and popular items, while real-world user-item bipartite graphs contain many noisy interactions that may hamper the sensitive GCNs. Graph contrastive learning shows promising performance for solving the above challenges. We propose Contrastive Graph Structure Learning via Information Bottleneck (CGI) for recommendation, which adaptively learns whether to drop an edge or node to obtain optimized graph structures in an end-to-end manner. Moreover, we innovatively introduce the Information Bottleneck into the contrastive learning process to avoid capturing irrelevant information among different views and help enrich the final representation for recommendation. Extensive experiments on public datasets show that our model significantly outperforms strong baselines.</div>
+
 </div>
 </div>
 
@@ -366,6 +402,8 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 
 *International World Wide Web Conference (WWW), 2022.* <span style="color:blue">(CCF-A)</span>
 
+<div class="paper-abstract">Users' social connections have recently shown significant benefits to session-based recommendations, and graph neural networks have demonstrated great success in learning the pattern of information flow among users. However, the current paradigm presumes a given social network, which is not necessarily consistent with fast-evolving shared interests and is expensive to collect. We propose a novel idea to learn the graph structure among users and make recommendations collectively in a coupled framework. We introduce a novel graph-structure learning framework for session-based recommendations (GSL4Rec) with a two-stage strategy, i.e., coarse neighbor screening and self-adaptive graph structure learning, to enable the exploration of potential links among all users while maintaining a tractable amount of computation. We also propose a phased heuristic learning strategy to sequentially and synergistically train the graph learning part and recommendation part of GSL4Rec. Experiments on five public datasets demonstrate that our proposed model significantly outperforms strong baselines, including state-of-the-art social network-based methods.</div>
+
 </div>
 </div>
 
@@ -377,6 +415,8 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Jian Liang, Bing Bai, Di Liu.
 
 *International Conference on Information and Knowledge Management (CIKM), 2022.* <span style="color:blue">(CCF-B)</span>
+
+<div class="paper-abstract">Hypergraph-based collaborative filtering for recommendations has emerged as an important research topic due to its ability to model complex relations among users and items. However, most existing methods typically construct hypergraph structures using heuristics based on existing graphs. From a learning perspective, we argue that the fixed heuristic topology of hypergraph may become a limitation and potentially compromise recommendation performance. To tackle this issue, we propose a novel dynamic hypergraph learning framework for collaborative filtering (DHLCF), which learns hypergraph structures and makes recommendations collectively in a unified framework. We propose a differentiable hypergraph learner to adaptively learn optimized hypergraph structures dynamically for hypergraph convolutions during training, and introduce a novel hypergraph learning objective that forces the learned hypergraphs to retain the original graph topology for better regularization. Extensive experiments on public datasets from different domains show that our proposed model significantly outperforms strong baselines.</div>
 
 
 </div>
@@ -392,6 +432,8 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 
 *IEEE Transactions on Services Computing (TSC)* <span style="color:blue">(CCF-A)</span>
 
+<div class="paper-abstract">Driven by Service-Oriented Computing techniques, time-aware service recommendation aims to support personalized mashup development, adapting to the rapid shifts of users' dynamic preferences. This paper proposes a Social-powered Graph Hierarchical Attention Network (SGHAN), a deep learning model capable of learning similar behaviors from proper friends during mashup development. SGHAN is powered by the reciprocity between its two core components: a service-level attentional encoder captures users' interested services in friends' mashups, while a friend-level graph attention network selects informative friends and propagates the friends' social influences. Extensive experiments show that the SGHAN model consistently outperforms state-of-the-art methods in terms of prediction accuracy for mashup creation.</div>
+
 </div>
 </div>
 
@@ -403,6 +445,8 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Yushun Fan, Jia Zhang. 
 
 *IEEE Transactions on Network and Service Management (TSNM)*
+
+<div class="paper-abstract">Driven by proliferation of the Service-Oriented Architecture (SOA), personalized service selection and recommendation has remained a hot topic. We study how users' high-order social networks may help improve service recommendation as well as its explainability. We introduce a novel High-order Social Graph Neural Network (HSGNN) to support social-aware service recommendation. The key idea is a graph convolution-based, multi-hop propagation module devised to extract the high-order social similarity signals from users' local social networks, and encode them into users' general representations. Afterwards, a neighbor-level attention module is constructed to adaptively select informative neighbors to model users' specific preference. Extensive experiments in a real-world service dataset show that our HSGNN makes service recommendation more accurately, by 4.71% in terms of normalized discounted cumulative gain (NDCG), than state-of-the-art baseline methods.</div>
 
 </div>
 </div>
@@ -417,6 +461,8 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Yushun Fan, Jia Zhang, Haozhe Lin.
 
 *IEEE International Conference on Web Services (ICWS), 2020.* <span style="color:blue">(CCF-B)</span>
+
+<div class="paper-abstract">With the widespread application of Service-Oriented Architecture, the quantity of web services keeps increasing rapidly over the Internet. Providing personalized service recommendation to users remains an important research topic. To tackle the challenge of high-order social relations in service recommendation, we have developed a novel neural Attentive network based on High-order Social Graph (A-HSG). First, a graph convolution-based, multi-hop propagation module is devised to extract the high-order similarity signals from users' local social networks, and inject them into the users' general representations. Second, a neighbor-level attention module is constructed to adaptively select informative neighbors to model users' specific preference. Extensive experiments over a real-life service dataset show that A-HSG outperforms baseline methods in terms of prediction accuracy.</div>
 
 </div>
 </div>
