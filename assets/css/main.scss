@@ -96,10 +96,42 @@
         font-style: italic;
     }
 
-    &:hover .paper-abstract {
+    .abstract-toggle-btn {
+        display: inline-block;
+        margin-top: 8px;
+        padding: 2px 10px;
+        font-size: 0.78em;
+        font-weight: 600;
+        color: #2563eb;
+        background: transparent;
+        border: 1px solid #2563eb;
+        border-radius: 4px;
+        cursor: pointer;
+        opacity: 0;
+        transition: opacity 0.2s ease, background 0.2s ease, color 0.2s ease;
+        user-select: none;
+        letter-spacing: 0.3px;
+
+        &:hover {
+            background: #2563eb;
+            color: #fff;
+        }
+    }
+
+    &:hover .abstract-toggle-btn {
+        opacity: 1;
+    }
+
+    &.abstract-open .abstract-toggle-btn {
+        opacity: 1;
+        background: #2563eb;
+        color: #fff;
+    }
+
+    &.abstract-open .paper-abstract {
         max-height: 800px;
         opacity: 1;
-        margin-top: 12px;
+        margin-top: 10px;
         border-left-color: #2563eb;
         padding-top: 6px;
         padding-bottom: 2px;

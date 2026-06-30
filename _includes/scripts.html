@@ -1,4 +1,24 @@
 <script src="assets/js/main.min.js"></script>
 
+<script>
+(function () {
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('.paper-box').forEach(function (box) {
+      var abstract = box.querySelector('.paper-abstract');
+      if (!abstract) return;
+      var btn = document.createElement('span');
+      btn.className = 'abstract-toggle-btn';
+      btn.textContent = 'Abstract ▾';
+      abstract.parentNode.insertBefore(btn, abstract);
+      btn.addEventListener('click', function (e) {
+        e.stopPropagation();
+        var isOpen = box.classList.toggle('abstract-open');
+        btn.textContent = isOpen ? 'Abstract ▴' : 'Abstract ▾';
+      });
+    });
+  });
+})();
+</script>
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
