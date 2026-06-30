@@ -372,7 +372,7 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='images/DHLCF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dynamic Hypergraph Learning for Collaborative](/assets/papers/DHLCF.pdf)
+[Dynamic Hypergraph Learning for Collaborative Filtering](/assets/papers/DHLCF.pdf)
 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Jian Liang, Bing Bai, Di Liu.
 
