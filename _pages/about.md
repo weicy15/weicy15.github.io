@@ -134,7 +134,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/AutoGFM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Test-Time Search for Automated GFM Fine-Tuning
+[Test-Time Search for Automated GFM Fine-Tuning](/assets/papers/AutoGFM.pdf)
 
 Wenji Hu, Xianan Wang, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Senhao Liu, Kuien Liu, Yunhai Wang, Yueguo Chen.
 
@@ -146,7 +146,7 @@ Wenji Hu, Xianan Wang, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/RAMBA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Ramba: Selective State-Space Models for Relational Deep Learning
+[Ramba: Selective State-Space Models for Relational Deep Learning](/assets/papers/RAMBA.pdf)
 
 Yiming Liu, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Haozhe Lin, Fengjun Xiao, Junqi Zhang, Yunhai Wang, Yueguo Chen.
 
@@ -158,7 +158,7 @@ Yiming Liu, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/MeSpher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Geodesic Expert Routing for Unbiased Knowledge Distillation in Recommendation
+[Geodesic Expert Routing for Unbiased Knowledge Distillation in Recommendation](/assets/papers/MeSpher.pdf)
 
 Xuan Zhang, Rongchuan Wei, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Hongxing Yuan, Yushun Fan<sup>✉</sup>.
 
@@ -170,7 +170,7 @@ Xuan Zhang, Rongchuan Wei, <span style="font-size: 1.2em;">**Chunyu Wei**</span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/DUDE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Don't Click That: Teaching Web Agents to Resist Deceptive Interfaces](https://arxiv.org/pdf/2605.09497v1)
+[Don't Click That: Teaching Web Agents to Resist Deceptive Interfaces](/assets/papers/DUDE.pdf)
 
 Yilin Zhang, Yingkai Hua, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Xin Wang, Yueguo Chen.
 
@@ -183,7 +183,7 @@ Yilin Zhang, Yingkai Hua, <span style="font-size: 1.2em;">**Chunyu Wei**</span><
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/CF-RAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Counterfactual Reasoning for Retrieval-Augmented Generation](https://openreview.net/pdf?id=9U51rOnGko)
+[Counterfactual Reasoning for Retrieval-Augmented Generation](/assets/papers/CF-RAG.pdf)
 
 Huaiyu Qin, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Yueguo Chen, Yunhai Wang
 
@@ -197,7 +197,7 @@ Huaiyu Qin, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/BAED.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Balanced Anomaly-guided Ego-graph Diffusion Model for Inductive Graph Anomaly Detection](https://arxiv.org/pdf/2602.05232)
+[Balanced Anomaly-guided Ego-graph Diffusion Model for Inductive Graph Anomaly Detection](/assets/papers/BAED.pdf)
 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Siyuan He, Yu Wang, Yueguo Chen, Yunhai Wang, Bing Bai, Yidong Zhang, Yong Xie, Shunming Zhang, Fei Wang.
 
@@ -209,7 +209,7 @@ Huaiyu Qin, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2026</div><img src='images/GDMSR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Graph-based Diffusion Model for Service Recommendation](https://ieeexplore.ieee.org/abstract/document/11311124)
+[Graph-based Diffusion Model for Service Recommendation](/assets/papers/GDMSR.pdf)
 
 Xuan Zhang, Xiang Deng, Hongxing Yuan, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Yushun Fan<sup>✉</sup>, Jia Zhang.
 
@@ -221,7 +221,7 @@ Xuan Zhang, Xiang Deng, Hongxing Yuan, <span style="font-size: 1.2em;">**Chunyu 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/T-Retriever.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[T-Retriever: Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs](https://arxiv.org/pdf/2601.04945)
+[T-Retriever: Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs](/assets/papers/T-Retriever.pdf)
 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Huaiyu Qin, Siyuan He, Yunhai Wang, Yueguo Chen.
 
@@ -233,7 +233,7 @@ Xuan Zhang, Xiang Deng, Hongxing Yuan, <span style="font-size: 1.2em;">**Chunyu 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/Unicoon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Unicoon: Hypergraph-based Multi-Agent Simulation of Information Cocoons
+[Unicoon: Hypergraph-based Multi-Agent Simulation of Information Cocoons](/assets/papers/Unicoon.pdf)
 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Yongsiqi Tu, Yunhai Wang.
 
@@ -246,7 +246,7 @@ Unicoon: Hypergraph-based Multi-Agent Simulation of Information Cocoons
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/GraphChain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GraphChain: Large Language Models for Large-scale Graph Analysis via Tool Chaining](https://arxiv.org/pdf/2511.00457)
+[GraphChain: Large Language Models for Large-scale Graph Analysis via Tool Chaining](/assets/papers/GraphChain.pdf)
 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Wenji Hu, Xingjia Hao, Xin Wang, Yifan Yang, Yunhai Wang, Yang Tian, Yueguo Chen.
 
@@ -258,7 +258,7 @@ Unicoon: Hypergraph-based Multi-Agent Simulation of Information Cocoons
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/CGADM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Conditional Diffusion Anomaly Modeling on Graphs](https://openreview.net/pdf?id=5Z8ckcrfq1)
+[Conditional Diffusion Anomaly Modeling on Graphs](/assets/papers/CGADM.pdf)
 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Haozhe Lin, Yueguo Chen, Yunhai Wang.
 
@@ -271,7 +271,7 @@ Unicoon: Hypergraph-based Multi-Agent Simulation of Information Cocoons
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/GEL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Graph Evidential Learning for Anomaly Detection](https://arxiv.org/pdf/2506.00594)
+[Graph Evidential Learning for Anomaly Detection](/assets/papers/GEL.pdf)
 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Wenji Hu, Xingjia Hao, Yunhai Wang, Yueguo Chen, Bing Bai, Fei Wang.
 
@@ -284,7 +284,7 @@ Unicoon: Hypergraph-based Multi-Agent Simulation of Information Cocoons
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2024</div><img src='images/CGA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cross-view Graph Alignment for Mashup Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10542468)
+[Cross-view Graph Alignment for Mashup Recommendation](/assets/papers/CGA.pdf)
 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Yushun Fan, Zhixuan Jia, Jia Zhang.
 
@@ -297,7 +297,7 @@ Unicoon: Hypergraph-based Multi-Agent Simulation of Information Cocoons
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/GigaTraj.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GigaTraj: Predicting Long-term Trajectories of Hundreds of Pedestrians in Gigapixel Complex Scenes](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_GigaTraj_Predicting_Long-term_Trajectories_of_Hundreds_of_Pedestrians_in_Gigapixel_CVPR_2024_paper.pdf)
+[GigaTraj: Predicting Long-term Trajectories of Hundreds of Pedestrians in Gigapixel Complex Scenes](/assets/papers/GigaTraj.pdf)
 
 Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu FANG.
 
@@ -309,7 +309,7 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2023</div><img src='images/MGL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Meta Graph Learning for Long-tail Recommendation](https://dl.acm.org/doi/pdf/10.1145/3580305.3599428)
+[Meta Graph Learning for Long-tail Recommendation](/assets/papers/MGL.pdf)
 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Jian Liang, Di Liu, Zehui Dai, Mang Li, Fei Wang.
 
@@ -321,7 +321,7 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/GCS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Boosting Graph Contrastive Learning via Graph Contrastive Saliency](https://proceedings.mlr.press/v202/wei23c/wei23c.pdf)
+[Boosting Graph Contrastive Learning via Graph Contrastive Saliency](/assets/papers/GCS.pdf)
 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Yu Wang, Bing Bai, Kai Ni, David J. Brady, Lu FANG.
 
@@ -333,7 +333,7 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSM 2023</div><img src='images/DRGL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dynamic Relation Graph Learning for Time-aware Service Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10288141)
+[Dynamic Relation Graph Learning for Time-aware Service Recommendation](/assets/papers/DRGL.pdf)
 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Yushun Fan, Jia Zhang, Zhixuan Jia, Ruyu Yan. 
 
@@ -345,7 +345,7 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/CGI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Contrastive Graph Structure Learning via Information Bottleneck for Recommendation](https://proceedings.neurips.cc/paper_files/paper/2022/file/803b9c4a8e4784072fdd791c54d614e2-Paper-Conference.pdf)
+[Contrastive Graph Structure Learning via Information Bottleneck for Recommendation](/assets/papers/CGI.pdf)
 
 **Spotlight (<5%)**
 
@@ -360,7 +360,7 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2022</div><img src='images/GSL4REC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction](https://dl.acm.org/doi/pdf/10.1145/3485447.3512085)
+[GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction](/assets/papers/GSL4REC.pdf)
 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Bing Bai, Kun Bai, Fei Wang.
 
@@ -372,7 +372,7 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='images/DHLCF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dynamic Hypergraph Learning for Collaborative](https://dl.acm.org/doi/pdf/10.1145/3511808.3557301)
+[Dynamic Hypergraph Learning for Collaborative](/assets/papers/DHLCF.pdf)
 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Jian Liang, Bing Bai, Di Liu.
 
@@ -386,7 +386,7 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2022</div><img src='images/SGHAN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Time-aware Service Recommendation with Social-powered Graph Hierarchical Attention Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9852695)
+[Time-aware Service Recommendation with Social-powered Graph Hierarchical Attention Network](/assets/papers/SGHAN.pdf)
 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Yushun Fan, Jia Zhang. 
 
@@ -398,7 +398,7 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSM 2022</div><img src='images/HSGNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[High-order Social Graph Neural Network for Service Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9810972)
+[High-order Social Graph Neural Network for Service Recommendation](/assets/papers/HSGNN.pdf)
 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Yushun Fan, Jia Zhang. 
 
@@ -412,7 +412,7 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICWS 2020</div><img src='images/AHSG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A-HSG: Neural Attentive Service Recommendation based on High-order Social Graph](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9283986)
+[A-HSG: Neural Attentive Service Recommendation based on High-order Social Graph](/assets/papers/AHSG.pdf)
 
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Yushun Fan, Jia Zhang, Haozhe Lin.
 
