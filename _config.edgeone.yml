@@ -1,0 +1,6 @@
+# Production settings for the Tencent EdgeOne mirror.
+url: "https://www.weichunyu.site"
+baseurl: ""
+
+# Generate absolute metadata, sitemap and feed URLs for the domestic domain.
+repository: "weicy15/weicy15.github.io"
