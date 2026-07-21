@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "韦淳于"
+excerpt: "韦淳于（Chunyu Wei），中国人民大学信息学院讲师、硕士生导师，研究关系智能、图机器学习、检索增强生成与多智能体系统。"
 author_profile: true
 redirect_from: 
   - /about/
