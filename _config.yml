@@ -17,7 +17,7 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 # SEO Related
 google_site_verification :  "2QYTn8HlIGbiwdUrbvZO1T_ORfOOn6u7U9NpaMWXXtQ"
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+baidu_site_verification  :  "codeva-dwOAAGaPid"
 
 # Site Author
 author:
