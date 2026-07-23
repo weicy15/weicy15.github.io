@@ -77,7 +77,7 @@ redirect_from:
     <ul class="project-card__list">
       <li><strong>组织</strong>：智能体记忆（Agent Memory）</li>
       <li><strong>检索</strong>：检索增强（RAG）</li>
-      <li><strong>微调</strong>：知识编辑（Knowledge Editing）</li>
+      <li><strong>微调</strong>：高效后训练（Post-training）</li>
       <li><strong>对齐</strong>：模型个性化（Personalization）</li>
     </ul>
   </div>
