@@ -118,6 +118,7 @@ redirect_from:
 ---
 
 # 🔥 News
+- *2026.08*: 获批CCF-腾讯犀牛鸟基金（中国计算机学会）
 - *2026.07*: 入选北京市“高创计划”青年人才托举工程
 - *2026.05*: 入选中国人工智能学会第二届“清源学者”
 - *2026.04*: 获批腾讯犀牛鸟专项研究计划项目
@@ -490,6 +491,7 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 # 🏆 Grants
 <div class="project-card">
   <ul class="project-card__list">
+    <li><strong>CCF-腾讯犀牛鸟基金</strong>，《大语言模型用户行为序列理解能力注入与协同建模研究》，<strong>主持</strong>，2026年</li>
     <li><strong>国家重点研发计划项目子课题</strong>，《面向就业结构预测的数据合成》，<strong>主持</strong>，2026年</li>
     <li><strong>腾讯犀牛鸟专项研究计划项目</strong>，《基于扩散模型的智能代码生成与补全技术研究》，<strong>主持</strong>，2026年</li>
     <li><strong>国家自然科学基金青年科学基金项目（C类）</strong>，《面向人岗精准匹配的动态时空感知图学习方法研究》，<strong>主持</strong>，2025年</li>
