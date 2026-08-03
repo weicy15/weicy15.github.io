@@ -496,7 +496,7 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
     <li><strong>腾讯犀牛鸟专项研究计划项目</strong>，《基于扩散模型的智能代码生成与补全技术研究》，<strong>主持</strong>，2026年</li>
     <li><strong>国家自然科学基金青年科学基金项目（C类）</strong>，《面向人岗精准匹配的动态时空感知图学习方法研究》，<strong>主持</strong>，2025年</li>
     <li><strong>CAAI-蚂蚁科研基金（AGI专项）</strong>，《面向Web的推理时交互的多模态UI智能体关键技术研究》，<strong>主持</strong>，2025年</li>
-    <li><strong>SMP-清智大模型基金</strong>，《基于图结构约束的多智能体社会知识智能构建与涌现机制研究》，<strong>主持</strong>，2025年</li>
+    <li><strong>CIPS-智谱大模型基金</strong>，《基于图结构约束的多智能体社会知识智能构建与涌现机制研究》，<strong>主持</strong>，2025年</li>
   </ul>
 </div>
 
