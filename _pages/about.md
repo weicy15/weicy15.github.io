@@ -211,6 +211,8 @@ Huaiyu Qin, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>,
 
 [Balanced Anomaly-guided Ego-graph Diffusion Model for Inductive Graph Anomaly Detection](/assets/papers/BAED.pdf)
 
+**Oral (<4%)**
+
 <span style="font-size: 1.2em;">**Chunyu Wei**</span>, Siyuan He, Yu Wang, Yueguo Chen, Yunhai Wang, Bing Bai, Yidong Zhang, Yong Xie, Shunming Zhang, Fei Wang.
 
 *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.* <span style="color:blue">(CCF-A)</span>
