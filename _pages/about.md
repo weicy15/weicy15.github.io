@@ -2,6 +2,7 @@
 permalink: /
 title: "韦淳于"
 excerpt: "韦淳于（Chunyu Wei），中国人民大学信息学院讲师、硕士生导师，研究涵盖知识增强的语言模型和拓扑感知的数据模型。"
+last_modified_at: 2026-08-22
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,12 +19,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div class="hero-intro">
-  <p class="hero-intro__main">
-    <strong class="hero-intro__name">韦淳于</strong>，博士，硕士生导师。中国人民大学信息学院讲师，中国人民大学国家治理大数据和人工智能创新平台研究员。
-  </p>
+  <div class="hero-intro__main">
+    <h1 class="hero-intro__name">韦淳于 <span class="hero-intro__name-en">Chunyu Wei</span></h1>
+    <p class="hero-intro__role">博士，硕士生导师。中国人民大学信息学院讲师，中国人民大学国家治理大数据和人工智能创新平台研究员。</p>
+  </div>
   <p class="hero-intro__sub">
     2019年于清华大学自动化系获学士学位，2024年于清华大学自动化系获博士学位。以第一或通讯作者发表CCF-A类论文二十余篇，研究成果在腾讯、阿里和快手等公司落地。入选中国人工智能学会第二届“清源学者”，北京市“高创计划”青年人才托举工程。
   </p>
+  {% if site.edgeone_site %}
+  <p class="hero-intro__site-note">
+    本站是韦淳于（Chunyu Wei）的个人学术主页，持续更新研究方向、代表性论文、科研项目与学术动态。
+  </p>
+  {% endif %}
 </div>
 
 <div class="research-section">
