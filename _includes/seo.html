@@ -1,7 +1,11 @@
 <!-- begin SEO -->
 {% assign seo_url = site.url | default: site.github.url %}
 {% assign seo_title = page.title | default: site.title %}
-{% assign seo_description = page.description | default: page.excerpt | default: site.description %}
+{% if site.edgeone_site and page.url == "/" %}
+  {% assign seo_description = site.description %}
+{% else %}
+  {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
+{% endif %}
 {% if seo_description %}
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
@@ -16,6 +20,8 @@
 {% if seo_description %}
   <meta name="description" content="{{ seo_description }}">
 {% endif %}
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<meta name="author" content="{{ site.author.name | escape_once }}">
 
 <meta property="og:locale" content="zh_CN">
 <meta property="og:type" content="website">
@@ -51,20 +57,50 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "韦淳于",
-  "alternateName": "Chunyu Wei",
-  "url": "{{ canonical_url }}",
-  "image": "{{ seo_url }}/images/my_photo.png",
-  "jobTitle": "讲师",
-  "affiliation": {
-    "@type": "CollegeOrUniversity",
-    "name": "中国人民大学"
-  },
-  "email": "mailto:weichunyu@ruc.edu.cn",
-  "sameAs": [
-    "https://github.com/weicy15",
-    "https://scholar.google.com/citations?user=qECtMnkAAAAJ&hl=zh-CN"
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "{{ seo_url }}/#website",
+      "url": "{{ seo_url }}/",
+      "name": "{{ site.title | escape_once }}",
+      "description": "{{ site.description | escape_once }}",
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "ProfilePage",
+      "@id": "{{ canonical_url }}#profile-page",
+      "url": "{{ canonical_url }}",
+      "name": "韦淳于个人学术主页",
+      "description": "{{ seo_description }}",
+      "inLanguage": "zh-CN",
+      "isPartOf": { "@id": "{{ seo_url }}/#website" },
+      "mainEntity": { "@id": "{{ canonical_url }}#person" }
+    },
+    {
+      "@type": "Person",
+      "@id": "{{ canonical_url }}#person",
+      "name": "韦淳于",
+      "alternateName": ["Chunyu Wei", "Wei Chunyu"],
+      "url": "{{ canonical_url }}",
+      "image": "{{ seo_url }}/images/my_photo.png",
+      "jobTitle": "讲师",
+      "worksFor": {
+        "@type": "CollegeOrUniversity",
+        "name": "中国人民大学",
+        "url": "https://www.ruc.edu.cn/"
+      },
+      "affiliation": {
+        "@type": "Organization",
+        "name": "中国人民大学信息学院",
+        "url": "https://info.ruc.edu.cn/"
+      },
+      "email": "mailto:weichunyu@ruc.edu.cn",
+      "sameAs": [
+        "https://brain.ruc.edu.cn/jcyj/jctd/jgkjzsys/jgkjzsys_jctd/jgkjzsys_fzls/837d149d523d4ce08a26937b920ecc44.htm",
+        "https://github.com/weicy15",
+        "https://scholar.google.com/citations?user=qECtMnkAAAAJ&hl=zh-CN"
+      ]
+    }
   ]
 }
 </script>

@@ -1,6 +1,11 @@
 # Production settings for the Tencent EdgeOne mirror.
 url: "https://www.weichunyu.site"
 baseurl: ""
+edgeone_site: true
+
+# Search metadata used only by the independently deployed domestic site.
+title: "韦淳于｜中国人民大学信息学院个人学术主页"
+description: "韦淳于（Chunyu Wei），中国人民大学信息学院讲师、硕士生导师。个人学术主页包含研究方向、论文、科研项目与学术动态。"
 
 # Generate absolute metadata, sitemap and feed URLs for the domestic domain.
 repository: "weicy15/weicy15.github.io"

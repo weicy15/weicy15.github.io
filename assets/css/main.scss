@@ -206,10 +206,26 @@ h1:before, .anchor:before {
     }
 
     &__name {
+        display: inline;
+        margin: 0;
+        padding: 0;
+        border: 0;
         font-size: 1.4em;
         color: #1e3a5f;
         font-weight: 700;
         letter-spacing: 0.02em;
+    }
+
+    &__name-en {
+        font-size: 0.58em;
+        font-weight: 500;
+        color: #64748b;
+        white-space: nowrap;
+    }
+
+    &__role {
+        display: inline;
+        margin: 0;
     }
 
     &__sub {
@@ -217,6 +233,15 @@ h1:before, .anchor:before {
         color: #4b5563;
         line-height: 1.85;
         font-size: 0.98em;
+    }
+
+    &__site-note {
+        margin: 12px 0 0;
+        padding-top: 10px;
+        border-top: 1px solid #dbeafe;
+        color: #475569;
+        font-size: 0.9em;
+        line-height: 1.7;
     }
 }
 
