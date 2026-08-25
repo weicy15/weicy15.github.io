@@ -337,7 +337,7 @@ Xuan Zhang, Xiang Deng, Hongxing Yuan, <span style="font-size: 1.2em;">**Chunyu 
 
 [GigaTraj: Predicting Long-term Trajectories of Hundreds of Pedestrians in Gigapixel Complex Scenes](/assets/papers/GigaTraj.pdf)
 
-Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, Yuchen Guo, Yuchy Zhao, Shanglong Li, Lu FANG.
+Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, Yuchen Guo *, Yuchy Zhao, Shanglong Li, Lu FANG.
 
 *Conference on Computer Vision and Pattern Recognition (CVPR), 2024.* <span style="color:blue">(CCF-A)</span>
 
