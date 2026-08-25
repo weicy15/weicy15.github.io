@@ -174,7 +174,7 @@ Yiming Liu, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>,
 
 [Geodesic Expert Routing for Unbiased Knowledge Distillation in Recommendation](/assets/papers/MeSpher.pdf)
 
-Xuan Zhang, Rongchuan Wei, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Hongxing Yuan, Yushun Fan<sup>✉</sup>.
+Xuan Zhang, Rongchuan Wei, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Hongxing Yuan<sup>✉</sup>, Yushun Fan.
 
 *International Joint Conference on Artificial Intelligence (IJCAI), 2026.* <span style="color:blue">(CAAI-A)</span>
 
