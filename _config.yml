@@ -9,7 +9,6 @@
 title                    : "韦淳于｜中国人民大学信息学院个人主页"
 description              : "韦淳于（Chunyu Wei），中国人民大学信息学院讲师、硕士生导师，研究涵盖知识增强的语言模型和拓扑感知的数据模型。"
 repository               : "weicy15/weicy15.github.io"
-google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -66,7 +65,6 @@ include:
   - files
 exclude:
   - docs
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
