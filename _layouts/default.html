@@ -27,6 +27,12 @@ layout: compress
       </article>
     </div>
 
+    {% if site.icp_number %}
+    <footer class="domestic-compliance-footer" role="contentinfo">
+      <a href="{{ site.icp_url }}" rel="noopener noreferrer">{{ site.icp_number }}</a>
+    </footer>
+    {% endif %}
+
     {% include scripts.html %}
 
   </body>

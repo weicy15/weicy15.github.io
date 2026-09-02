@@ -9,3 +9,7 @@ description: "韦淳于（Chunyu Wei），中国人民大学信息学院讲师�
 
 # Generate absolute metadata, sitemap and feed URLs for the domestic domain.
 repository: "weicy15/weicy15.github.io"
+
+# ICP filing shown in the footer of the domestic site.
+icp_number: "京ICP备2026025559号"
+icp_url: "https://beian.miit.gov.cn/"

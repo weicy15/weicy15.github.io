@@ -2,7 +2,7 @@
 permalink: /
 title: "韦淳于"
 excerpt: "韦淳于（Chunyu Wei），中国人民大学信息学院讲师、硕士生导师，研究涵盖知识增强的语言模型和拓扑感知的数据模型。"
-last_modified_at: 2026-08-22
+last_modified_at: 2026-09-02
 author_profile: true
 redirect_from: 
   - /about/
