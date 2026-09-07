@@ -20,6 +20,9 @@
 {% if seo_description %}
   <meta name="description" content="{{ seo_description }}">
 {% endif %}
+{% if page.url == "/" and site.keywords %}
+  <meta name="keywords" content="{{ site.keywords | escape_once }}">
+{% endif %}
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 <meta name="applicable-device" content="pc,mobile">
 <meta name="author" content="{{ site.author.name | escape_once }}">
@@ -64,6 +67,7 @@
       "@id": "{{ seo_url }}/#website",
       "url": "{{ seo_url }}/",
       "name": "{{ site.title | escape_once }}",
+      "alternateName": ["韦淳于个人学术主页", "Chunyu Wei Academic Homepage", "weichunyu.site"],
       "description": "{{ site.description | escape_once }}",
       "inLanguage": "zh-CN"
     },
@@ -81,7 +85,8 @@
       "@type": "Person",
       "@id": "{{ canonical_url }}#person",
       "name": "韦淳于",
-      "alternateName": ["Chunyu Wei", "Wei Chunyu"],
+      "alternateName": ["Chunyu Wei", "Wei Chunyu", "weichunyu"],
+      "identifier": "weichunyu",
       "url": "{{ canonical_url }}",
       "image": "{{ seo_url }}/images/my_photo.png",
       "jobTitle": "讲师",
