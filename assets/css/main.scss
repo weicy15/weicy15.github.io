@@ -80,6 +80,11 @@
     .paper-box-text{
         max-width: 100%;
         order: 1;
+
+        /* Venue abbreviation, e.g. (**NeurIPS**) in the italic venue line */
+        em strong {
+            color: #111827;
+        }
     }
 
     .paper-abstract {
