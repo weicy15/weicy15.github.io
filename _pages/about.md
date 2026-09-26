@@ -133,7 +133,7 @@ redirect_from:
 
 **Circuit-Level Knowledge Distillation for Large Language Models**
 
-Yashuo Luo, Tongxu Wang, Siyuan He, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>.
+Yashuo Luo, Tongxu Wang, Siyuan He, <span style="font-size: 1.2em;">**Chunyu Wei**</span><i class="fas fa-envelope corr-author" title="Corresponding author"></i>.
 
 *Conference on Neural Information Processing Systems (**NeurIPS**), 2026.* <span style="color:blue">(CCF-A)</span>
 
@@ -147,7 +147,7 @@ Yashuo Luo, Tongxu Wang, Siyuan He, <span style="font-size: 1.2em;">**Chunyu Wei
 
 **Gradient Boosted Trees for Retrieval-Augmented Generation**
 
-Huaiyu Qin, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Yueguo Chen, Yunhai Wang.
+Huaiyu Qin, <span style="font-size: 1.2em;">**Chunyu Wei**</span><i class="fas fa-envelope corr-author" title="Corresponding author"></i>, Yueguo Chen, Yunhai Wang.
 
 *Conference on Neural Information Processing Systems (**NeurIPS**), 2026.* <span style="color:blue">(CCF-A)</span>
 
@@ -161,7 +161,7 @@ Huaiyu Qin, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>,
 
 **OpticalRAG: Pixel-Space Compression for Token-Efficient Retrieval-Augmented Generation**
 
-Senhao Liu, Yuheng Zhang, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Yueguo Chen, Xinran Zhang.
+Senhao Liu, Yuheng Zhang, <span style="font-size: 1.2em;">**Chunyu Wei**</span><i class="fas fa-envelope corr-author" title="Corresponding author"></i>, Yueguo Chen, Xinran Zhang.
 
 *Conference on Neural Information Processing Systems (**NeurIPS**), 2026.* <span style="color:blue">(CCF-A)</span>
 
@@ -175,7 +175,7 @@ Senhao Liu, Yuheng Zhang, <span style="font-size: 1.2em;">**Chunyu Wei**</span><
 
 **Bridging Diffusion and Autoregression for Flexible Time Series Synthesis**
 
-Xin Wang, Xuan Zhang, Haipeng Zhang, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Yueguo Chen.
+Xin Wang, Xuan Zhang, Haipeng Zhang, <span style="font-size: 1.2em;">**Chunyu Wei**</span><i class="fas fa-envelope corr-author" title="Corresponding author"></i>, Yueguo Chen.
 
 *Conference on Neural Information Processing Systems (**NeurIPS**), 2026.* <span style="color:blue">(CCF-A)</span>
 
@@ -189,7 +189,7 @@ Xin Wang, Xuan Zhang, Haipeng Zhang, <span style="font-size: 1.2em;">**Chunyu We
 
 **Beyond Node Sequences: Relational Diffusion for Unified Graph Learning**
 
-Xianan Wang, Wenji Hu, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Yueguo Chen.
+Xianan Wang, Wenji Hu, <span style="font-size: 1.2em;">**Chunyu Wei**</span><i class="fas fa-envelope corr-author" title="Corresponding author"></i>, Yueguo Chen.
 
 *Conference on Neural Information Processing Systems (**NeurIPS**), 2026.* <span style="color:blue">(CCF-A)</span>
 
@@ -203,7 +203,7 @@ Xianan Wang, Wenji Hu, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup
 
 [Test-Time Search for Automated GFM Fine-Tuning](/assets/papers/AutoGFM.pdf)
 
-Wenji Hu, Xianan Wang, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Senhao Liu, Kuien Liu, Yunhai Wang, Yueguo Chen.
+Wenji Hu, Xianan Wang, <span style="font-size: 1.2em;">**Chunyu Wei**</span><i class="fas fa-envelope corr-author" title="Corresponding author"></i>, Senhao Liu, Kuien Liu, Yunhai Wang, Yueguo Chen.
 
 *SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026.* <span style="color:blue">(CCF-A)</span>
 
@@ -217,7 +217,7 @@ Wenji Hu, Xianan Wang, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup
 
 [Ramba: Selective State-Space Models for Relational Deep Learning](/assets/papers/RAMBA.pdf)
 
-Yiming Liu, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Haozhe Lin, Fengjun Xiao, Junqi Zhang, Yunhai Wang, Yueguo Chen.
+Yiming Liu, <span style="font-size: 1.2em;">**Chunyu Wei**</span><i class="fas fa-envelope corr-author" title="Corresponding author"></i>, Haozhe Lin, Fengjun Xiao, Junqi Zhang, Yunhai Wang, Yueguo Chen.
 
 *International Conference on Machine Learning (**ICML**), 2026.* <span style="color:blue">(CCF-A)</span>
 
@@ -231,7 +231,7 @@ Yiming Liu, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>,
 
 [Geodesic Expert Routing for Unbiased Knowledge Distillation in Recommendation](/assets/papers/MeSpher.pdf)
 
-Xuan Zhang, Rongchuan Wei, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Hongxing Yuan<sup>✉</sup>, Yushun Fan.
+Xuan Zhang, Rongchuan Wei, <span style="font-size: 1.2em;">**Chunyu Wei**</span><i class="fas fa-envelope corr-author" title="Corresponding author"></i>, Hongxing Yuan<i class="fas fa-envelope corr-author" title="Corresponding author"></i>, Yushun Fan.
 
 *International Joint Conference on Artificial Intelligence (**IJCAI**), 2026.* <span style="color:blue">(CAAI-A)</span>
 
@@ -245,7 +245,7 @@ Xuan Zhang, Rongchuan Wei, <span style="font-size: 1.2em;">**Chunyu Wei**</span>
 
 [Don't Click That: Teaching Web Agents to Resist Deceptive Interfaces](/assets/papers/DUDE.pdf)
 
-Yilin Zhang, Yingkai Hua, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Xin Wang, Yueguo Chen.
+Yilin Zhang, Yingkai Hua, <span style="font-size: 1.2em;">**Chunyu Wei**</span><i class="fas fa-envelope corr-author" title="Corresponding author"></i>, Xin Wang, Yueguo Chen.
 
 *Annual Meeting of the Association for Computational Linguistics (**ACL**), **Main**，2026.* <span style="color:blue">(CCF-A)</span>
 
@@ -260,7 +260,7 @@ Yilin Zhang, Yingkai Hua, <span style="font-size: 1.2em;">**Chunyu Wei**</span><
 
 [Counterfactual Reasoning for Retrieval-Augmented Generation](/assets/papers/CF-RAG.pdf)
 
-Huaiyu Qin, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Yueguo Chen, Yunhai Wang
+Huaiyu Qin, <span style="font-size: 1.2em;">**Chunyu Wei**</span><i class="fas fa-envelope corr-author" title="Corresponding author"></i>, Yueguo Chen, Yunhai Wang
 
 *The International Conference on Learning Representations (**ICLR**), 2026.* <span style="color:blue">(CCF-A)</span>
 
@@ -292,7 +292,7 @@ Huaiyu Qin, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>,
 
 [Graph-based Diffusion Model for Service Recommendation](/assets/papers/GDMSR.pdf)
 
-Xuan Zhang, Xiang Deng, Hongxing Yuan, <span style="font-size: 1.2em;">**Chunyu Wei**</span><sup>✉</sup>, Yushun Fan<sup>✉</sup>, Jia Zhang.
+Xuan Zhang, Xiang Deng, Hongxing Yuan, <span style="font-size: 1.2em;">**Chunyu Wei**</span><i class="fas fa-envelope corr-author" title="Corresponding author"></i>, Yushun Fan<i class="fas fa-envelope corr-author" title="Corresponding author"></i>, Jia Zhang.
 
 *IEEE Transactions on Services Computing (**TSC**)* <span style="color:blue">(CCF-A)</span>
 
