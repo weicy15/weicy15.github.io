@@ -85,6 +85,16 @@
         em strong {
             color: #111827;
         }
+
+        /* Corresponding-author mark: an icon font renders the same on every
+           OS, unlike the ✉ character (tiny on Windows, a white emoji on Apple) */
+        .corr-author {
+            margin-left: 3px;
+            font-size: 0.78em;
+            vertical-align: 0.45em;
+            color: #2563eb;
+            cursor: help;
+        }
     }
 
     .paper-abstract {
