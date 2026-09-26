@@ -20,4 +20,148 @@
 })();
 </script>
 
+<script>
+/* Year timeline beside the publication list: highlights the year of the
+   paper being read and jumps to a year on click. */
+(function () {
+  document.addEventListener('DOMContentLoaded', function () {
+    var boxes = Array.prototype.slice.call(document.querySelectorAll('.paper-box'));
+    if (!boxes.length) return;
+
+    // Group consecutive papers by the year in their badge, e.g. "KDD 2025"
+    var groups = [];
+    boxes.forEach(function (box) {
+      var badge = box.querySelector('.badge');
+      var match = badge && badge.textContent.match(/(19|20)\d{2}/);
+      if (!match) return;
+      var year = match[0];
+      var last = groups[groups.length - 1];
+      if (last && last.year === year) {
+        last.boxes.push(box);
+      } else {
+        groups.push({ year: year, boxes: [box] });
+      }
+    });
+    if (groups.length < 2) return;
+
+    var nav = document.createElement('nav');
+    nav.className = 'pub-timeline';
+    nav.setAttribute('aria-label', 'Publication years');
+    var list = document.createElement('ol');
+    list.className = 'pub-timeline__list';
+    var track = document.createElement('div');
+    track.className = 'pub-timeline__track';
+    var progress = document.createElement('div');
+    progress.className = 'pub-timeline__progress';
+    list.appendChild(track);
+    list.appendChild(progress);
+
+    groups.forEach(function (group) {
+      var first = group.boxes[0];
+      if (!first.id) first.id = 'pub-' + group.year;
+      var item = document.createElement('li');
+      item.className = 'pub-timeline__item';
+      var link = document.createElement('a');
+      link.className = 'pub-timeline__link';
+      link.href = '#' + first.id;
+      link.title = group.year + ' · ' + group.boxes.length + (group.boxes.length > 1 ? ' papers' : ' paper');
+      link.innerHTML = '<span class="pub-timeline__label">' + group.year + '</span><span class="pub-timeline__dot"></span>';
+      link.addEventListener('click', function (e) {
+        e.preventDefault();
+        var top = first.getBoundingClientRect().top + window.pageYOffset - headerOffset() - 12;
+        window.scrollTo({ top: top, behavior: 'smooth' });
+      });
+      item.appendChild(link);
+      list.appendChild(item);
+      group.item = item;
+    });
+
+    nav.appendChild(list);
+    document.body.appendChild(nav);
+    document.body.classList.add('has-pub-timeline');
+
+    function headerOffset() {
+      var mast = document.querySelector('.masthead');
+      return mast ? mast.getBoundingClientRect().height : 0;
+    }
+
+    function dotCenter(item) {
+      return item.offsetTop + item.offsetHeight / 2;
+    }
+
+    var ticking = false;
+    function update() {
+      ticking = false;
+      var viewH = window.innerHeight;
+      // The paper crossing this line counts as the one being read
+      var readLine = headerOffset() + (viewH - headerOffset()) * 0.3;
+      var firstTop = groups[0].boxes[0].getBoundingClientRect().top;
+      var lastBoxes = groups[groups.length - 1].boxes;
+      var lastBottom = lastBoxes[lastBoxes.length - 1].getBoundingClientRect().bottom;
+
+      nav.classList.toggle('is-visible', firstTop < viewH * 0.6 && lastBottom > viewH * 0.3);
+
+      var active = 0;
+      var fraction = 0;
+      groups.forEach(function (group, i) {
+        if (group.boxes[0].getBoundingClientRect().top <= readLine) active = i;
+      });
+      var start = groups[active].boxes[0].getBoundingClientRect().top;
+      var endBoxes = groups[active].boxes;
+      var end = active < groups.length - 1
+        ? groups[active + 1].boxes[0].getBoundingClientRect().top
+        : endBoxes[endBoxes.length - 1].getBoundingClientRect().bottom;
+      if (end > start) fraction = Math.min(Math.max((readLine - start) / (end - start), 0), 1);
+
+      groups.forEach(function (group, i) {
+        group.item.classList.toggle('is-active', i === active);
+        group.item.classList.toggle('is-passed', i < active);
+      });
+
+      // Fill the rail up to the active dot, then partway towards the next one
+      var from = dotCenter(groups[0].item);
+      var here = dotCenter(groups[active].item);
+      var next = active < groups.length - 1 ? dotCenter(groups[active + 1].item) : here;
+      var to = dotCenter(groups[groups.length - 1].item);
+      track.style.top = progress.style.top = from + 'px';
+      track.style.height = (to - from) + 'px';
+      progress.style.height = Math.max(here + (next - here) * fraction - from, 0) + 'px';
+    }
+
+    // Give the paper list a right margin only where the gutter is too narrow
+    function reserveSpace() {
+      var content = document.querySelector('.page__content');
+      if (!content) return;
+      var gutter = document.documentElement.clientWidth - content.getBoundingClientRect().right;
+      var needed = nav.offsetWidth + 20 + 24;
+      document.body.style.setProperty('--pub-timeline-space', Math.max(needed - gutter, 0) + 'px');
+    }
+
+    function requestUpdate() {
+      if (!ticking) {
+        ticking = true;
+        window.requestAnimationFrame(update);
+      }
+    }
+
+    var scrollTimer;
+    window.addEventListener('scroll', function () {
+      nav.classList.add('is-scrolling');
+      clearTimeout(scrollTimer);
+      scrollTimer = setTimeout(function () {
+        nav.classList.remove('is-scrolling');
+      }, 1200);
+      requestUpdate();
+    }, { passive: true });
+    window.addEventListener('resize', function () {
+      reserveSpace();
+      requestUpdate();
+    });
+    window.addEventListener('load', requestUpdate);
+    reserveSpace();
+    update();
+  });
+})();
+</script>
+
 {% include analytics.html %}
