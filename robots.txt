@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.weichunyu.site/sitemap.xml
+Sitemap: https://www.weichunyu.site/baidu-sitemap.xml
