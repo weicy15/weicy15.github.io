@@ -559,7 +559,7 @@ Haozhe Lin *, <span style="font-size: 1.2em;">**Chunyu Wei**</span> *, Li He *, 
 # 🏆 Grants
 <div class="project-card">
   <ul class="project-card__list">
-    <li><strong>CCF-快手大模型探索者基金</strong>，<strong>主持</strong>，2026年</li>
+    <li><strong>CCF-快手大模型探索者基金</strong>，《面向生服线索广告的异构序列多模态Diffusion长序列建模研究》，<strong>主持</strong>，2026年</li>
     <li><strong>中国移动合作项目</strong>，《面向RAG的精准记忆归因算法与非破坏性上下文遗忘技术研究》，<strong>主持</strong>，2026年</li>
     <li><strong>CCF-阿里1688源宝合作基金</strong>，《面向开放式预测任务的数据-模型协同自动构造方法研究》，<strong>主持</strong>，2026年</li>
     <li><strong>CCF-腾讯犀牛鸟基金</strong>，《大语言模型用户行为序列理解能力注入与协同建模研究》，<strong>主持</strong>，2026年</li>
