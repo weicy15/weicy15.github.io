@@ -132,7 +132,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/MCD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Circuit-Level Knowledge Distillation for Large Language Models**
+[Circuit-Level Knowledge Distillation for Large Language Models](/assets/papers/MCD.pdf)
 
 Yashuo Luo, Tongxu Wang, Siyuan He, <span style="font-size: 1.2em;">**Chunyu Wei**</span><i class="fas fa-envelope corr-author" title="Corresponding author"></i>.
 
@@ -146,7 +146,7 @@ Yashuo Luo, Tongxu Wang, Siyuan He, <span style="font-size: 1.2em;">**Chunyu Wei
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/GBT-RAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Gradient Boosted Trees for Retrieval-Augmented Generation**
+[Gradient Boosted Trees for Retrieval-Augmented Generation](/assets/papers/GBT-RAG.pdf)
 
 Huaiyu Qin, <span style="font-size: 1.2em;">**Chunyu Wei**</span><i class="fas fa-envelope corr-author" title="Corresponding author"></i>, Yueguo Chen, Yunhai Wang.
 
@@ -160,7 +160,7 @@ Huaiyu Qin, <span style="font-size: 1.2em;">**Chunyu Wei**</span><i class="fas f
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/OpticalRAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**OpticalRAG: Pixel-Space Compression for Token-Efficient Retrieval-Augmented Generation**
+[OpticalRAG: Pixel-Space Compression for Token-Efficient Retrieval-Augmented Generation](/assets/papers/OpticalRAG.pdf)
 
 Senhao Liu, Yuheng Zhang, <span style="font-size: 1.2em;">**Chunyu Wei**</span><i class="fas fa-envelope corr-author" title="Corresponding author"></i>, Yueguo Chen, Xinran Zhang.
 
@@ -174,7 +174,7 @@ Senhao Liu, Yuheng Zhang, <span style="font-size: 1.2em;">**Chunyu Wei**</span><
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/HorizonDiffusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Bridging Diffusion and Autoregression for Flexible Time Series Synthesis**
+[Bridging Diffusion and Autoregression for Flexible Time Series Synthesis](/assets/papers/HorizonDiffusion.pdf)
 
 Xin Wang, Xuan Zhang, Haipeng Zhang, <span style="font-size: 1.2em;">**Chunyu Wei**</span><i class="fas fa-envelope corr-author" title="Corresponding author"></i>, Yueguo Chen.
 
@@ -188,9 +188,9 @@ Xin Wang, Xuan Zhang, Haipeng Zhang, <span style="font-size: 1.2em;">**Chunyu We
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/RelationalDiffusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Beyond Node Sequences: Relational Diffusion for Unified Graph Learning**
+[Beyond Node Sequences: Relational Diffusion for Unified Graph Learning](/assets/papers/RelationalDiffusion.pdf)
 
-Xianan Wang, Wenji Hu, <span style="font-size: 1.2em;">**Chunyu Wei**</span><i class="fas fa-envelope corr-author" title="Corresponding author"></i>, Yueguo Chen.
+<span style="font-size: 1.2em;">**Chunyu Wei**</span><sup title="Equal contribution">*</sup>, Xianan Wang<sup title="Equal contribution">*</sup>, Wenji Hu, Yueguo Chen<i class="fas fa-envelope corr-author" title="Corresponding author"></i>.
 
 *Conference on Neural Information Processing Systems (**NeurIPS**), 2026.* <span style="color:blue">(CCF-A)</span>
 
